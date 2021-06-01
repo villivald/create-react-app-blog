@@ -1,9 +1,9 @@
 ---
 title: "[1] JavaScript Data Types"
 date: "2020-06-15"
-categories: 
+categories:
   - "js"
-tags: 
+tags:
   - "code"
   - "coding"
   - "css"
@@ -27,12 +27,12 @@ In addition to my main studies, I constantly watch [FrontendMasters](https://fro
 
 Well, at first, there are some basic data types, like strings, numbers and booleans (true vs false):
 
-```
+```javascript
 console.log(typeof "Test")
 → string
 ```
 
-```
+```javascript
 console.log(typeof 8)
 → number
 ```
@@ -46,7 +46,7 @@ Then, in the following example, we can see the difference between undefined and 
 
 ```
 let x
-console.log(typeof x) 
+console.log(typeof x)
 → undefined
 ```
 

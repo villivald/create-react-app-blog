@@ -1,9 +1,9 @@
 ---
 title: "[14] The 15 Best Developer Resources in 2020 - Part I"
 date: "2020-12-05"
-categories: 
+categories:
   - "top"
-tags: 
+tags:
   - "code"
   - "coding"
   - "programming"
@@ -20,7 +20,7 @@ Today I will continue my [Top 15 series](https://create-react-app.com/tag/top/) 
 
 One of the most inspiring and beginner-friendly open-source developer communities.
 
-![](images/Screenshot-2020-12-04-at-23.07.39-1024x511.png)
+![TTT](images/Screenshot-2020-12-04-at-23.07.39-1024x511.png)
 
 [https://www.freecodecamp.org/news](https://www.freecodecamp.org/news)
 
@@ -136,9 +136,10 @@ An online magazine for designers and web developers.
 
 [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
 
-* * *
+---
 
-### [  
+### [
+
 My Site](https://proj.create-react-app.com/)
 
 ### [GitHub](https://github.com/villivald)

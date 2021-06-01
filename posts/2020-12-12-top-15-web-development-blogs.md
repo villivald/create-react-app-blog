@@ -1,9 +1,9 @@
 ---
 title: "[15] Top 15 Web Development Blogs in 2020"
 date: "2020-12-12"
-categories: 
+categories:
   - "top"
-tags: 
+tags:
   - "blog"
   - "coding"
   - "top"
@@ -17,15 +17,15 @@ Today I will continue my [Top 15 series](https://create-react-app.com/tag/top/) 
 
 ## 1). Dan Abramov
 
-A software engineer at Facebook, working on the React team, co-author of [Redux](https://en.wikipedia.org/wiki/Redux_(JavaScript_library)), and Create React App.
+A software engineer at Facebook, working on the React team, co-author of [Redux](<https://en.wikipedia.org/wiki/Redux_(JavaScript_library)>), and Create React App.
 
-![](images/Screenshot-2020-12-12-at-11.33.22-1024x995.png)
+![TTT](static/img/images/0pnyts6nl3barevplyl6.png)
 
 [https://overreacted.io/](https://overreacted.io/)
 
 [https://justjavascript.com/](https://justjavascript.com/)
 
-[https://twitter.com/dan\_abramov](https://twitter.com/dan_abramov)
+[https://twitter.com/dan_abramov](https://twitter.com/dan_abramov)
 
 ## 2). Sarah Dresner
 
@@ -35,7 +35,7 @@ A speaker, developer at Netlify, Vue core team member, and [Staff Writer at CSS-
 
 [https://sarah.dev/](https://sarah.dev/)
 
-[https://twitter.com/sarah\_edo](https://twitter.com/sarah_edo)
+[https://twitter.com/sarah_edo](https://twitter.com/sarah_edo)
 
 ## 3). Lea Verou
 
@@ -165,9 +165,10 @@ Vadim is the founder of [Web Standards](https://twitter.com/webstandards_ru), th
 
 Please feel free to complete the list by replying to this post. Which blogs do you like best?
 
-* * *
+---
 
-### [  
+### [
+
 My Site](https://proj.create-react-app.com/)
 
 ### [GitHub](https://github.com/villivald)
