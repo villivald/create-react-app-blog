@@ -1,13 +1,13 @@
 ---
 title: "[13] Top 15 Most Useful Tools in 2020"
 date: "2020-11-24"
-categories: 
+categories:
   - "top"
-tags: 
+tags:
   - "coding"
   - "tools"
   - "top"
-coverImage: "Screenshot-2020-11-24-at-12.44.32.png"
+coverImage: "../static/img/images/Screenshot-2020-11-24-at-12.44.32.png"
 ---
 
 This post was inspired by Wes Bos and his brilliant project - [https://uses.tech/](https://uses.tech/) in which I recently [participated](https://proj.ninja/uses). So, today, I would like to tell you about some tools and software that I use on a daily basis. Here we go, Top 15 Most Useful Tools in 2020.
@@ -100,7 +100,7 @@ Free
 
 ![nova](images/nova-1024x830.png)
 
-A new trendy IDE from creators of [Coda](https://en.wikipedia.org/wiki/Coda_(web_development_software)). Quite pricey, but absolutely adorable.
+A new trendy IDE from creators of [Coda](<https://en.wikipedia.org/wiki/Coda_(web_development_software)>). Quite pricey, but absolutely adorable.
 
 [https://nova.app/](https://nova.app/)
 
@@ -192,7 +192,7 @@ Mobile
 
 Paid
 
-* * *
+---
 
 ### [My Site](https://proj.create-react-app.com/)
 

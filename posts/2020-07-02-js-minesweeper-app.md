@@ -1,21 +1,16 @@
 ---
 title: "[2] JS Minesweeper"
 date: "2020-07-02"
-categories: 
+categories:
   - "js"
-tags: 
-  - "code"
+tags:
   - "coding"
   - "game"
   - "javascript"
-  - "js"
   - "minesweeper"
-  - "ohjelmointi"
-  - "peli"
-  - "programmer"
   - "programming"
   - "project"
-coverImage: "Screenshot-2020-07-02-at-13.27.03.png"
+coverImage: "../static/img/images/Screenshot-2020-07-02-at-13.27.03.png"
 ---
 
 Well, it's been over two weeks since the start of my vacation. Before it started, I thought I was going to [write here](https://create-react-app.com/) more often, but there were many other things and so on. Due to the coronavirus situation, it was almost impossible to travel anywhere except within the country. So we had a couple of car trips inside Finland (Tampere, Lahti, Järvenpää, Kirkkonummi, etc).

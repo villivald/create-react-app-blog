@@ -1,16 +1,16 @@
 ---
 title: "[5] JavaScript - Spread operator"
 date: "2020-07-24"
-categories: 
+categories:
   - "js"
-tags: 
+tags:
   - "array"
   - "javascript"
   - "js"
   - "object"
   - "spread"
   - "syntax"
-coverImage: "Screenshot-2020-07-24-at-16.41.18.png"
+coverImage: "../static/img/images/Screenshot-2020-07-24-at-16.41.18.png"
 ---
 
 In the last couple of days, I was trying to intensively learn JavaScript. So, in the few next posts will be some thoughts about useful functions, methods, and syntax features. Today I will start with the javascript spread operator.

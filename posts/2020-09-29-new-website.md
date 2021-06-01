@@ -1,12 +1,12 @@
 ---
 title: "[9] A Brand New Website and a Lot of React"
 date: "2020-09-29"
-categories: 
+categories:
   - "js"
   - "react"
   - "site"
   - "studies"
-tags: 
+tags:
   - "css"
   - "html"
   - "javascript"
@@ -15,7 +15,7 @@ tags:
   - "studies"
   - "website"
   - "www"
-coverImage: "Screenshot-2020-09-26-at-20.00.35.png"
+coverImage: "../static/img/images/Screenshot-2020-09-26-at-20.00.35.png"
 ---
 
 So, as it may be understood from the title of this post, I have made a [new website](https://proj.create-react-app.com/) for my projects. This is not exactly a portfolio or a CV, but something like that. There I put everything that I do during [my studies at the university](https://create-react-app.com/my-studies-at-the-university/) and the self-studies.

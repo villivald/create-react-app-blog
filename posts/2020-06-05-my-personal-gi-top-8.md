@@ -1,27 +1,14 @@
 ---
 title: "[0] Git"
 date: "2020-06-05"
-categories: 
+categories:
   - "git"
-tags: 
-  - "amend"
-  - "branch"
-  - "code"
+tags:
   - "coding"
-  - "fetch"
   - "git"
   - "github"
-  - "log"
-  - "merge"
   - "newbie"
-  - "ohjelmointi"
-  - "programming"
-  - "pull"
-  - "repo"
-  - "repository"
-  - "stash"
-  - "tag"
-coverImage: "Screenshot-2020-06-05-at-19.06.03.png"
+coverImage: "../static/img/images/Screenshot-2020-06-05-at-19.06.03.png"
 ---
 
 At the moment I am especially interested in [Git](https://github.com/villivald) and have recently passed two courses devoted to this technology. [One course](https://plus.tuni.fi/tie-git/v2/) was from the [University of Tampere](https://www.tuni.fi/en), which I’m going to include in my degree. And the other one is a course called [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) from [Frontend Masters](https://frontendmasters.com/).
@@ -52,7 +39,7 @@ There is a simple example of using stashes below. It is quite handy when you wan
 
 ![](https://i0.wp.com/create-react-app.com/wp-content/uploads/2020/06/Screenshot-2020-06-04-at-19.24.16.png?fit=640%2C354&ssl=1)
 
-You should use _git push --tags_ (or _git push tag\_name_) to push tags to a remote repository.
+You should use _git push --tags_ (or _git push tag_name_) to push tags to a remote repository.
 
 5). **Git merge**. Fast-forwarding by default vs no fast-forward.
 
@@ -60,7 +47,7 @@ _git merge exercise3_:
 
 ![](https://i2.wp.com/create-react-app.com/wp-content/uploads/2020/06/Screenshot-2020-06-04-at-19.32.30.png?fit=640%2C234&ssl=1)
 
-I got the difference between _git merge some\_branch_ and _git merge --no-ff some\_branch_. It is becoming obvious when you use _git log --graph_.
+I got the difference between _git merge some_branch_ and _git merge --no-ff some_branch_. It is becoming obvious when you use _git log --graph_.
 
 _git merge --no-ff exercise3:_
 

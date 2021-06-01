@@ -11,7 +11,7 @@ tags:
   - "web"
   - "web-development"
   - "webdev"
-coverImage: "Screenshot-2020-12-04-at-23.05.23.png"
+coverImage: "../static/img/images/Screenshot-2020-12-04-at-23.05.23.png"
 ---
 
 Today I will continue my [Top 15 series](https://create-react-app.com/tag/top/) with a brief overview of the best developer resources that I use daily. It is worth saying that there are a lot of great resources that are left behind the brackets. [Dev.to](https://dev.to/villivald), [Medium](https://create-react-app.medium.com/), [Stack Overflow](https://stackoverflow.com/), [GitHub](https://github.com/villivald), and many more obvious ones.

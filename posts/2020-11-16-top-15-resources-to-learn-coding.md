@@ -1,13 +1,13 @@
 ---
 title: "[12] Top 15 Resources to Learn Coding in 2020"
 date: "2020-11-16"
-categories: 
+categories:
   - "top"
-tags: 
+tags:
   - "coding"
   - "study"
   - "top"
-coverImage: "Screenshot-2020-11-15-at-18.17.09-1.png"
+coverImage: "../static/img/images/Screenshot-2020-11-15-at-18.17.09-1.png"
 ---
 
 ## 1). Frontend Masters
@@ -184,7 +184,7 @@ The best option to start - [Elements of AI](https://www.elementsofai.com/).
 
 Free
 
-* * *
+---
 
 ### [My Site](https://proj.create-react-app.com/)
 

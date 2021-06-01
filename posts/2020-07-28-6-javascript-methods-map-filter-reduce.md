@@ -1,9 +1,9 @@
 ---
 title: "[6] JavaScript - Map, Filter & Reduce"
 date: "2020-07-28"
-categories: 
+categories:
   - "js"
-tags: 
+tags:
   - "code"
   - "filter"
   - "function"
@@ -12,7 +12,7 @@ tags:
   - "map"
   - "reduce"
   - "study"
-coverImage: "Screenshot-2020-07-27-at-13.16.26.png"
+coverImage: "../static/img/images/Screenshot-2020-07-27-at-13.16.26.png"
 ---
 
 I am still focusing on learning JavaScript and especially different JavaScript methods while waiting for the next academic year to begin. The first courses are due to start in early September, so it’s not so long to wait anymore. I hope that it will boost my productivity since now I feel extremely unfocused and a bit confused in the abundance of information.
@@ -28,7 +28,7 @@ function fn(name, id) {
     console.log(id + 1, ": ", name)
 }
 
-["John", "Marie"].map(fn) 
+["John", "Marie"].map(fn)
 
 /*
 1: John

@@ -1,9 +1,9 @@
 ---
 title: "[4] React - Todo app"
 date: "2020-07-15"
-categories: 
+categories:
   - "react"
-tags: 
+tags:
   - "app"
   - "application"
   - "code"
@@ -16,7 +16,7 @@ tags:
   - "react"
   - "todo"
   - "website"
-coverImage: "Screenshot-2020-07-14-at-16.18.49.png"
+coverImage: "../static/img/images/Screenshot-2020-07-14-at-16.18.49.png"
 ---
 
 Finally, I have some time to write about my experience with React. When I am thinking about all the things I have learned over the last year, React seems to be the most tricky part of web development so far. I watched a bunch of videos and read a lot of everything. And even so, I don’t feel particularly confident in dealing with it.
@@ -32,11 +32,11 @@ The basic configuration of my project was as follows:
 ```
 npx create-react-app APP_NAME
 
-npm i -D prettier 
+npm i -D prettier
 --> .prettierrc --> {}
 
 npm install -D eslint eslint-config-prettier
---> .eslintrc.json --> 
+--> .eslintrc.json -->
 {
   "extends": [
     "eslint:recommended",
@@ -73,7 +73,7 @@ npm install -D eslint eslint-config-prettier
   }
 }
 
---> .gitignore --> 
+--> .gitignore -->
 node_modules/
 .DS_Store
 .cache/

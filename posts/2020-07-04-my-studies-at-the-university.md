@@ -1,40 +1,19 @@
 ---
 title: "[3] My Studies at the University"
 date: "2020-07-04"
-categories: 
+categories:
   - "studies"
-tags: 
-  - "ammattikorkeakoulu"
-  - "code"
+tags:
   - "coding"
-  - "css"
-  - "engineering"
   - "finland"
-  - "frontend"
-  - "game"
-  - "helsinki"
-  - "html"
-  - "it"
-  - "javascript"
   - "lab"
   - "lahti"
   - "lamk"
-  - "mobile"
-  - "ohjelmointi"
-  - "opiskelu"
-  - "programmer"
-  - "programming"
-  - "software"
   - "student"
   - "studies"
-  - "study"
-  - "uas"
   - "university"
-  - "universityofappliessciences"
-  - "web-dev"
-  - "web-development"
-  - "webdev"
-coverImage: "Screenshot-2020-04-23-at-12.02.47-copy-1.png"
+
+coverImage: "../static/img/images/Screenshot-2020-04-23-at-12.02.47-copy-1.png"
 ---
 
 As I mentioned in [one of my previous posts](https://create-react-app.com/creare-react-app-blog/), I am currently studying IT at the LAB University of Applied Sciences (Finland, Lahti). The first year of my studies ended about one month ago, and in the coming fall, I will continue with the second one.

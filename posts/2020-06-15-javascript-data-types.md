@@ -4,23 +4,12 @@ date: "2020-06-15"
 categories:
   - "js"
 tags:
-  - "code"
   - "coding"
-  - "css"
   - "data"
-  - "data-types"
-  - "html"
   - "javascript"
-  - "js"
   - "newbie"
-  - "programmer"
-  - "programming"
-  - "type"
-  - "typeof"
-  - "types"
-  - "web"
-  - "web-development"
-coverImage: "Screenshot-2020-06-15-at-10.45.28.png"
+  - "webdev"
+coverImage: "../static/img/images/Screenshot-2020-06-15-at-10.45.28.png"
 ---
 
 In addition to my main studies, I constantly watch [FrontendMasters](https://frontendmasters.com/) courses. Those courses are mostly about JavaScript, HTML, CSS, web development in general and things like that. So in this post, I'll share some considerations about JavaScript data types.

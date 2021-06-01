@@ -1,6 +1,7 @@
 <div class="card-grid">
   {% for post in posts %}
     <div class="card">
+      <img src="{{ post.data.coverImage }}" alt="{{ post.data.coverImage }}">
       <h3 class="card__title">
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h3>

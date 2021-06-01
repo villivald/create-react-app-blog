@@ -1,15 +1,15 @@
 ---
 title: "[10] Hacktoberfest, Exploring The Caverns of GitHub and Free T-Shirts"
 date: "2020-10-13"
-categories: 
+categories:
   - "git"
-tags: 
+tags:
   - "git"
   - "github"
   - "hacktoberfest"
   - "issue"
   - "pullrequest"
-coverImage: "Screenshot-2020-10-13-at-17.14.04.png"
+coverImage: "../static/img/images/Screenshot-2020-10-13-at-17.14.04.png"
 ---
 
 As you might know, at this time, there is an event called [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Hacktoberfest is a month-long (October 1 - 31) open-source virtual festival organized by companies such as [DigitalOcean](https://www.digitalocean.com/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), and [Dev](https://dev.to/villivald). It is quite a popular event among aspiring developers and all kinds of people who are interested in contributing to the open-source. Taking part is easy enough. After registration, you only need to submit four pull requests to any [GitHub](https://github.com/villivald) repo with the `hacktoberfest` topic or label. People that are maintaining repos, in turn, can create issues with such labels and wait for the contributors.
@@ -27,15 +27,13 @@ My pull requests may not be the most useful in the world, but I tried my best. T
 At this point, I realized that I have no idea what is the issue, so I started to think in that direction. After all, I opened one issue on each of my two most active repositories - [React website](https://github.com/villivald/proj_react_2020) and [Todo App built with React Native](https://github.com/villivald/todo_app_react_native_2020). You can see the essence of the issues in the pictures below. I was pleasantly surprised by the responsiveness of the community, and I'm very grateful to the people who helped me with the issues.
 
 - ![](images/Screenshot-2020-10-13-at-17.15.19-1024x543.png)
-    
 - ![](images/Screenshot-2020-10-13-at-17.15.41-1024x556.png)
-    
 
 ### [Site](https://proj.create-react-app.com/)
 
 ### [GitHub](https://github.com/villivald)
 
-* * *
+---
 
 ### Share
 

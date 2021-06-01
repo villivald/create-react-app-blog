@@ -1,10 +1,10 @@
 ---
 title: "[8] The University's Fall Semester & Mastering Zsh"
 date: "2020-09-13"
-categories: 
+categories:
   - "shell"
   - "studies"
-tags: 
+tags:
   - "bash"
   - "lab"
   - "lahti"
@@ -16,12 +16,12 @@ tags:
   - "university"
   - "universityofappliessciences"
   - "zsh"
-coverImage: "Screenshot-2020-09-13-at-11.47.36.png"
+coverImage: "../static/img/images/Screenshot-2020-09-13-at-11.47.36.png"
 ---
 
 Recently my second year at the University started, and I am happy to have some well-known routine in my study life. Nevertheless, in the first part of autumn, I will have only two courses: [Orientation to Sustainability Thinking (2 ECTS)](https://opinto-opas.lab.fi/en/realization/A300CE13-3001), which is more about the sustainable picture in general and [Technical Mathematics (3 ECTS)](https://opinto-opas.lab.fi/en/realization/AT00BT69-3001), which is just a regular theoretical course in math. The first one is completely independent, and on my part, is almost done and is waiting for evaluation. The math course is a regular lecture course and will run until the end of the year. Since the end of September, I will also start another [University module](https://create-react-app.com/my-studies-at-the-university/) dedicated to web development. I am looking forward to starting this particular module since web development is what interests me most at the moment.
 
-By the way, I keep watching some [FrontendMasters](https://frontendmasters.com/) courses, and recently I went through the [Complete Intro to Linux and the Command-Line](https://frontendmasters.com/courses/linux-command-line/) named course by [Brian Holt](https://frontendmasters.com/teachers/brian-holt/). This course was a lot of fun, and Brian is definitely one of the best teachers I have ever seen. I learned a lot about Zsh and Bash commands, such as _less_, _Touch file{1..10..2}.txt_, _rm -rf_, _ls -lsah_, _kill -9_, _whoami_, _ps aux_, _wget_, _curl_, and so on. I refreshed my knowledge about using _sudo_ and manipulating user permissions. There was as well a whole part of the course related to the Vim and Nano, and yes, now I even know how to get out of Vim. I have also learned to create and use my own simple shell scripts, like: 
+By the way, I keep watching some [FrontendMasters](https://frontendmasters.com/) courses, and recently I went through the [Complete Intro to Linux and the Command-Line](https://frontendmasters.com/courses/linux-command-line/) named course by [Brian Holt](https://frontendmasters.com/teachers/brian-holt/). This course was a lot of fun, and Brian is definitely one of the best teachers I have ever seen. I learned a lot about Zsh and Bash commands, such as _less_, _Touch file{1..10..2}.txt_, _rm -rf_, _ls -lsah_, _kill -9_, _whoami_, _ps aux_, _wget_, _curl_, and so on. I refreshed my knowledge about using _sudo_ and manipulating user permissions. There was as well a whole part of the course related to the Vim and Nano, and yes, now I even know how to get out of Vim. I have also learned to create and use my own simple shell scripts, like:
 
 ```
 read -p "Enter a folder name: " FOLDER
