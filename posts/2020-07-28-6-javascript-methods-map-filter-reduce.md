@@ -12,7 +12,7 @@ tags:
   - "map"
   - "reduce"
   - "study"
-coverImage: "../static/img/images/Screenshot-2020-07-27-at-13.16.26.png"
+coverImage: "../static/img/images/6/Screenshot-2020-07-27-at-13.16.26.png"
 ---
 
 I am still focusing on learning JavaScript and especially different JavaScript methods while waiting for the next academic year to begin. The first courses are due to start in early September, so it’s not so long to wait anymore. I hope that it will boost my productivity since now I feel extremely unfocused and a bit confused in the abundance of information.

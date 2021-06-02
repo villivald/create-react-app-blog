@@ -16,7 +16,7 @@ tags:
   - "university"
   - "universityofappliessciences"
   - "zsh"
-coverImage: "../static/img/images/Screenshot-2020-09-13-at-11.47.36.png"
+coverImage: "../static/img/images/8/Screenshot-2020-09-13-at-11.47.36.png"
 ---
 
 Recently my second year at the University started, and I am happy to have some well-known routine in my study life. Nevertheless, in the first part of autumn, I will have only two courses: [Orientation to Sustainability Thinking (2 ECTS)](https://opinto-opas.lab.fi/en/realization/A300CE13-3001), which is more about the sustainable picture in general and [Technical Mathematics (3 ECTS)](https://opinto-opas.lab.fi/en/realization/AT00BT69-3001), which is just a regular theoretical course in math. The first one is completely independent, and on my part, is almost done and is waiting for evaluation. The math course is a regular lecture course and will run until the end of the year. Since the end of September, I will also start another [University module](https://create-react-app.com/my-studies-at-the-university/) dedicated to web development. I am looking forward to starting this particular module since web development is what interests me most at the moment.
@@ -38,7 +38,7 @@ echo done
 
 I have also made some changes to the basic Zsh settings on my terminal. For example, I installed the oh-my-zsh framework, which is just outstanding. It allows you to simply add plugins to Zsh. There is my list of plugins: _plugins=(git history osx web-search)_. I have also made some changes to the _.zshrc_ file, which allows the terminal to randomly choose one of my favorite Zsh themes on every boot (spaceship, robbyrussell, amuse, avit, norm, pygmalion, sunrise, wezm, ys).
 
-![](images/Screenshot-2020-09-13-at-12.04.55-1024x820.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/8/Screenshot-2020-09-13-at-12.04.55.png)
 
 Blog: [https://create-react-app.com/](https://create-react-app.com/)
 

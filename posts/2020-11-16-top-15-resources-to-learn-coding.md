@@ -7,12 +7,12 @@ tags:
   - "coding"
   - "study"
   - "top"
-coverImage: "../static/img/images/Screenshot-2020-11-15-at-18.17.09-1.png"
+coverImage: "../static/img/images/12/Screenshot-2020-11-15-at-18.17.09.png"
 ---
 
 ## 1). Frontend Masters
 
-![](images/Screenshot-2020-11-15-at-18.17.09-1024x659.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.17.09.png)
 
 React, Vue, Angular, Svelte, Gatsby, Next, JS, Node, TypeScript, StoryBook, you name it.
 
@@ -24,7 +24,7 @@ Free/Paid
 
 ## 2). FreeCodeCamp
 
-![](images/Screenshot-2020-11-15-at-18.13.04-1024x501.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.13.04.png)
 
 FreeCodeCamp is definitely the best completely free online resource for learning to code.
 
@@ -36,7 +36,7 @@ Free
 
 ## 3). Coursera
 
-![](images/Screenshot-2020-11-15-at-18.19.56-1024x491.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.19.56.png)
 
 A huge amount of courses from the greatest universities around the world.
 
@@ -48,7 +48,7 @@ Free/Paid
 
 ## 4). MDN
 
-![](images/Screenshot-2020-11-15-at-18.31.26-1024x514.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.31.26.png)
 
 One of the greatest and well known open source communities. Don't forget to check the [Firefox Browser Developer Edition](https://www.mozilla.org/en-US/firefox/developer/).
 
@@ -60,7 +60,7 @@ Free
 
 ## 5). w3schools
 
-![](images/Screenshot-2020-11-15-at-18.32.34-1024x508.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.32.34.png)
 
 An extremely understandable and intelligible educational website for learning web technologies.
 
@@ -72,7 +72,7 @@ Free
 
 ## 6). Udemy
 
-![](images/Screenshot-2020-11-15-at-18.36.23-1024x505.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.36.23.png)
 
 A broad selection of IT courses on a variety of topics, from Web Dev to Hardware.
 
@@ -84,7 +84,7 @@ Paid
 
 ## 7). EggHead
 
-![](images/Screenshot-2020-11-15-at-18.35.40-1024x539.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.35.40.png)
 
 The short but capacious courses. Mainly on the topics of web programming and frontend.
 
@@ -96,7 +96,7 @@ Free/Paid
 
 ## 8). Wes Bos
 
-![](images/Screenshot-2020-11-15-at-18.39.52-1024x516.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.39.52.png)
 
 The best option to start - [JavaScript30](https://javascript30.com/).
 
@@ -106,7 +106,7 @@ Free/Paid
 
 ## 9). Scrimba
 
-![](images/Screenshot-2020-11-15-at-18.43.05-1024x525.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.43.05.png)
 
 The best option to start - [The Coding Bootcamp Primer](https://scrimba.com/learn/bootcampprimer).
 
@@ -116,7 +116,7 @@ Free/Paid
 
 ## 10). LinkedIn Learning
 
-![](images/Screenshot-2020-11-15-at-18.46.33-1024x591.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.46.33.png)
 
 The best option to start - [Become a Software Developer](https://www.linkedin.com/learning/paths/become-a-software-developer).
 
@@ -126,7 +126,7 @@ Free/Paid
 
 ## 11). Flavio Copes
 
-![](images/Screenshot-2020-11-15-at-19.00.01-1024x571.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-19.00.01.png)
 
 The best option to start - [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/).
 
@@ -136,7 +136,7 @@ Free/Paid
 
 ## 12). JetBrains Academy
 
-![](images/Screenshot-2020-11-15-at-18.35.04-1024x509.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.35.04.png)
 
 The best option to start - [Track: Python Developer](https://hyperskill.org/onboarding/tracks/2).
 
@@ -146,7 +146,7 @@ Paid
 
 ## 13). FutureLearn
 
-![](images/Screenshot-2020-11-15-at-19.02.32-1024x511.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-19.02.32.png)
 
 The best option to start - [Learn to Code for the Web](https://www.futurelearn.com/courses/learn-to-code-for-the-web) (University of Leeds).
 
@@ -156,7 +156,7 @@ Free/Paid
 
 ## 14). edX
 
-![](images/Screenshot-2020-11-15-at-19.04.25-1024x473.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-19.04.25.png)
 
 The best option to start - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) (Harvard University).
 
@@ -166,7 +166,7 @@ Free/Paid
 
 ## 15). Mike Dane
 
-![](images/Screenshot-2020-11-15-at-18.47.48-1024x527.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.47.48.png)
 
 The best option to start - [Javascript Tutorial](https://www.mikedane.com/web-development/javascript/).
 
@@ -176,7 +176,7 @@ Free
 
 ## \+ Bonus - University of Helsinki's MOOC
 
-![](images/Screenshot-2020-11-15-at-18.09.48-1024x576.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/12/Screenshot-2020-11-15-at-18.09.48.png)
 
 The best option to start - [Elements of AI](https://www.elementsofai.com/).
 

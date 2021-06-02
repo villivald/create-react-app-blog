@@ -9,7 +9,7 @@ tags:
   - "javascript"
   - "newbie"
   - "webdev"
-coverImage: "../static/img/images/Screenshot-2020-06-15-at-10.45.28.png"
+coverImage: "../static/img/images/1/Screenshot-2020-06-15-at-10.45.28.png"
 ---
 
 In addition to my main studies, I constantly watch [FrontendMasters](https://frontendmasters.com/) courses. Those courses are mostly about JavaScript, HTML, CSS, web development in general and things like that. So in this post, I'll share some considerations about JavaScript data types.

@@ -8,7 +8,7 @@ tags:
   - "git"
   - "github"
   - "newbie"
-coverImage: "../static/img/images/0/0/Screenshot-2020-06-05-at-19.06.03.png"
+coverImage: "../static/img/images/0/Screenshot-2020-06-05-at-19.06.03.png"
 ---
 
 At the moment I am especially interested in [Git](https://github.com/villivald) and have recently passed two courses devoted to this technology. [One course](https://plus.tuni.fi/tie-git/v2/) was from the [University of Tampere](https://www.tuni.fi/en), which I’m going to include in my degree. And the other one is a course called [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) from [Frontend Masters](https://frontendmasters.com/).

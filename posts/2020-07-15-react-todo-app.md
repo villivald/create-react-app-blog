@@ -16,7 +16,7 @@ tags:
   - "react"
   - "todo"
   - "website"
-coverImage: "../static/img/images/Screenshot-2020-07-14-at-16.18.49.png"
+coverImage: "../static/img/images/4/Screenshot-2020-07-14-at-16.18.49.png"
 ---
 
 Finally, I have some time to write about my experience with React. When I am thinking about all the things I have learned over the last year, React seems to be the most tricky part of web development so far. I watched a bunch of videos and read a lot of everything. And even so, I don’t feel particularly confident in dealing with it.
@@ -90,7 +90,7 @@ npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal
 
 I also made some minor changes to my website. There are screenshot and links below:
 
-![](images/Screenshot-2020-07-14-at-16.19.26-1024x541.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/4/Screenshot-2020-07-14-at-16.19.26.png)
 
 [https://create-react-app.com/www/](https://create-react-app.com/www/)
 
