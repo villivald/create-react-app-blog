@@ -1,23 +1,25 @@
 module.exports = {
   meta: {
     title: "Create React App Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    description:
+      "Web Dev Tools, Productivity Tips & Stories About My Journey to Become a Developer",
     lang: "en",
-    siteUrl: "https://example.com/",
+    siteUrl: "https://create-react-app.com/",
   },
   feed: {
     // used in feed.xml.njk
-    subtitle: "Lorem ipsum dolor sit amet consecuteor",
+    subtitle:
+      "Web Dev Tools, Productivity Tips & Stories About My Journey to Become a Developer",
     filename: "atom.xml",
     path: "/atom.xml",
-    id: "https://example.com/",
-    authorName: "John Doe",
-    authorEmail: "johndoe@example.com",
+    id: "https://create-react-app.com",
+    authorName: "MV",
+    authorEmail: "maxim@villivald.com",
   },
   hero: {
     // used in hero section of main page ie. index.html.njk
     title: "Welcome to Create React App Blog",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse.",
+      "Web Dev Tools, Productivity Tips & Stories About My Journey to Become a Developer",
   },
 };
