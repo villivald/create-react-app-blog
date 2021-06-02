@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a180e099-11d2-49d4-9697-910d56980343/deploy-status)](https://app.netlify.com/sites/reverent-carson-67c52e/deploys)
 [![Build Status](https://travis-ci.com/ar363/reverent-carson-67c52e.svg?branch=main)](https://travis-ci.com/ar363/eleventy-stylus-blog-theme)
-[![Vercel Status](https://vercel-badge-ar363.vercel.app/?app=eleventy-stylus-blog-theme)](https://github.com/villivald/create-react-app/deployments/activity_log?environment=Production)
+[![Vercel Status](https://vercel-badge-ar363.vercel.app/?app=eleventy-stylus-blog-theme)](https://github.com/villivald/create-react-app-blog/deployments/activity_log?environment=Production)
 
 A theme repository that contains a blog built with [Eleventy](https://github.com/11ty/eleventy) and [Stylus](https://stylus-lang.com/)
 
