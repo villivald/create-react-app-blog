@@ -20,17 +20,10 @@ A theme repository that contains a blog built with [Eleventy](https://github.com
 
 ## Demos
 
-- Vercel: https://eleventy-stylus-blog-theme.vercel.app/
-- Netlify: https://eleventy-stylus-blog-theme.netlify.app/
-- Github Pages: https://ar363.github.io/eleventy-stylus-blog-theme/
+- Vercel: https://create-react-app-blog.vercel.app/
+- Netlify: https://reverent-carson-67c52e.netlify.app/
 
 ## Screenshots
-
-Light theme
-![light theme website homepage screenshot](screenshot.png?raw=true)
-
-Dark theme
-![dark theme website homepage screenshot](screenshot-dark.png?raw=true)
 
 ## Deploy this template to your own site
 
@@ -38,12 +31,6 @@ Get your site up and running with a few clicks
 
 - [Deploy on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/ar363/eleventy-stylus-blog-theme)
 - [Deploy on Vercel](https://vercel.com/import/project?template=ar363%2Feleventy-stylus-blog-theme)
-
-## Prerequisites for local development
-
-[Node.js 8 or above](https://nodejs.org/en/)
-
-[Yarn](https://yarnpkg.com/) package manager
 
 ## Getting started locally
 
