@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.com/villivald/create-react-app-blog.svg?branch=main)](https://travis-ci.com/villivald/create-react-app-blog)
 [![Vercel Status](https://vercel-badge-ar363.vercel.app/?app=eleventy-stylus-blog-theme)](https://github.com/villivald/create-react-app-blog/deployments/activity_log?environment=Production)
 
+[Speedlify](https://crappblog.netlify.app/)
+
 A theme repository that contains a blog built with [Eleventy](https://github.com/11ty/eleventy) and [Stylus](https://stylus-lang.com/)
 
 ## Features
