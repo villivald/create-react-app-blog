@@ -24,19 +24,19 @@ So, as it may be understood from the title of this post, I have made a [new webs
 
 The [first version](https://old.create-react-app.com/Projects/Skeleton/index.html) of the website was made almost a year ago as a web programming [course](https://opetustarjontahaku.lab.fi/search.php#result-13407) assignment. That time I used [Skeleton](http://getskeleton.com/), which is a very simple responsive CSS boilerplate, not so powerful as Bootstrap, but much easier to use. This version of the site was not so fancy, and, in a big way, just a "copy/paste" project from different tutorials.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.39-1024x648.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.39.png)
 
 ### v. 2 - HTML, CSS, JS
 
 After a few months, I realized that I want to make a more "stylish" [website](https://old.create-react-app.com/), for which I will not be so ashamed and even can show to someone. That time I decided not to use any kind of frameworks, and go with just HTML, CSS, and JS. I used a flexbox for styling components and implemented some more complicated things (e.g., glitching logo) if you compare it to the previous version. Anyway, the result turned out not to be so impressive.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.51-1024x520.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.51.png)
 
 ### v. 3 - React
 
 Finally, about two weeks ago, I started to work on the [current version of the website](https://proj.create-react-app.com/). I decided not to rework the previous versions, but to make it all over again from the scratch. This time I took React as a web framework. I like React for the possibility to write JSX, the hooks system, and the variety of third-party libraries.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-28-at-22.30.55-1024x538.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-28-at-22.30.55.png)
 
 At the moment, I use the VS Code as an editor, and I am also using several add-ons for my VS Code setup, e.g., Prettier, ESLint, Bracket Pair Colorizer, etc. I tried many color themes as well but barely could use nothing other but standard Dark+.
 
