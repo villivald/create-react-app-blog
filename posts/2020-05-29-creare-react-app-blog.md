@@ -13,7 +13,7 @@ tags:
   - "newbie"
   - "university"
   - "webdev"
-coverImage: "../static/img/images/-1/image.png"
+coverImage: "../static/img/images/CoverImages/-1.webp"
 ---
 
 Since my previous post was more about my background, then in this one I will talk about my current situation. At the moment I am studying at the LAB University of Applied Sciences which is located in Lahti, Finland. And yes, I’m learning information technology.

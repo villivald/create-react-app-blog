@@ -13,7 +13,7 @@ tags:
   - "studies"
   - "svelte"
   - "udemy"
-coverImage: "../static/img/images/7/IMG_5DC3519C6E6F-1-e1598082913634.jpeg"
+coverImage: "../static/img/images/CoverImages/7.webp"
 ---
 
 In the last few weeks, I was a little tired of learning React and JavaScript. Therefore, I decided to try some new things. I do not know if it is a negative impact of that notorious "JavaScript fatigue". In any case, there are also good sides. At least I widened my horizons a bit by learning new technologies.

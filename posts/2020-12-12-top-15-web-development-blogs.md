@@ -10,7 +10,7 @@ tags:
   - "web-development"
   - "webdev"
   - "website"
-coverImage: "../static/img/images/Screenshot-2020-12-12-at-13.39.48.png"
+coverImage: "../static/img/images/CoverImages/15.webp"
 ---
 
 Today I will continue my [Top 15 series](https://create-react-app.com/tag/top/) with another post. This time I would like to share with you my personal top 15 of the most inspiring developer blogs. Some members of the list are represented only as Twitter accounts, and some of them have personal sites and blogs. Anyway, I believe that every person on this list deserves your attention.

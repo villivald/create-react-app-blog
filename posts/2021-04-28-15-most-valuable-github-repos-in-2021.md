@@ -9,7 +9,7 @@ tags:
   - "github"
   - "top"
   - "top15"
-coverImage: "../static/img/images/20/Screenshot-2021-04-28-at-10.21.38.png"
+coverImage: "../static/img/images/CoverImages/20.webp"
 ---
 
 Over the last few years, I've accumulated a huge amount of links to useful GitHub repos. Today I picked a few of them, which I would like to share with you.

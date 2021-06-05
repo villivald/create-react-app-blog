@@ -13,7 +13,7 @@ tags:
   - "studies"
   - "university"
 
-coverImage: "../static/img/images/3/Screenshot-2020-04-23-at-12.02.47-copy-1.png"
+coverImage: "../static/img/images/CoverImages/3.webp"
 ---
 
 As I mentioned in [one of my previous posts](https://create-react-app.com/creare-react-app-blog/), I am currently studying IT at the LAB University of Applied Sciences (Finland, Lahti). The first year of my studies ended about one month ago, and in the coming fall, I will continue with the second one.

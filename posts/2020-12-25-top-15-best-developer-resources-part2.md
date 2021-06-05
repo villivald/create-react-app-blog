@@ -8,7 +8,7 @@ tags:
   - "top"
   - "top15"
   - "webdev"
-coverImage: "../static/img/images/Screenshot-2020-12-25-at-10.59.34.png"
+coverImage: "../static/img/images/CoverImages/16.webp"
 ---
 
 Today I will keep up my [Top 15 series](https://create-react-app.com/tag/top/) for the last time this year. This post will be the second part of [one of my previous posts](https://create-react-app.com/15-best-developer-resources-in-2020/), which was also related to Best Developer Resources. I wasn't originally planning any "sequels". Anyway, the reason for writing the second part is simple enough - there are just so many great resources that I want to share. This time, I will go with a bit less obvious ones, and, despite the lack of big names, I believe that there are enough noteworthy hidden gems here.

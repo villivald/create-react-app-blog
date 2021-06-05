@@ -7,7 +7,7 @@ tags:
   - "coding"
   - "study"
   - "top"
-coverImage: "../static/img/images/12/Screenshot-2020-11-15-at-18.17.09.png"
+coverImage: "../static/img/images/CoverImages/12.webp"
 ---
 
 ## 1). Frontend Masters

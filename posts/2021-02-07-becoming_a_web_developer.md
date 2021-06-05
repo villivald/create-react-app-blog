@@ -8,7 +8,7 @@ tags:
   - "study"
   - "university"
   - "webdev"
-coverImage: "../static/img/images/Screenshot-2021-02-07-at-16.54.37.png"
+coverImage: "../static/img/images/CoverImages/17.webp"
 ---
 
 It feels like it is finally time for my current situation overview after the long break since I published my [previous post](https://dev.to/villivald/16-the-15-best-developer-resources-in-2020-part-ii-2igo) in mid-December.

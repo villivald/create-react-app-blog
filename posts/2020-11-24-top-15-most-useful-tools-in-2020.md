@@ -7,7 +7,7 @@ tags:
   - "coding"
   - "tools"
   - "top"
-coverImage: "../static/img/images/Screenshot-2020-11-24-at-12.44.32.png"
+coverImage: "../static/img/images/CoverImages/13.webp"
 ---
 
 This post was inspired by Wes Bos and his brilliant project - [https://uses.tech/](https://uses.tech/) in which I recently [participated](https://proj.ninja/uses). So, today, I would like to tell you about some tools and software that I use on a daily basis. Here we go, Top 15 Most Useful Tools in 2020.
