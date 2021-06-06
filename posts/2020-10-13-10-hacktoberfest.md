@@ -9,7 +9,7 @@ tags:
   - "hacktoberfest"
   - "issue"
   - "pullrequest"
-coverImage: "../static/img/images/10/Screenshot-2020-10-13-at-17.14.04.png"
+coverImage: "../static/img/images/CoverImages/10.webp"
 ---
 
 As you might know, at this time, there is an event called [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Hacktoberfest is a month-long (October 1 - 31) open-source virtual festival organized by companies such as [DigitalOcean](https://www.digitalocean.com/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), and [Dev](https://dev.to/villivald). It is quite a popular event among aspiring developers and all kinds of people who are interested in contributing to the open-source. Taking part is easy enough. After registration, you only need to submit four pull requests to any [GitHub](https://github.com/villivald) repo with the `hacktoberfest` topic or label. People that are maintaining repos, in turn, can create issues with such labels and wait for the contributors.
