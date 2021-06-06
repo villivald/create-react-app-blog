@@ -18,7 +18,7 @@ module.exports = {
   },
   hero: {
     // used in hero section of main page ie. index.html.njk
-    title: "Welcome to Create React App Blog",
+    title: "Create React App",
     description:
       "Web Dev Tools, Productivity Tips & Stories About My Journey to Become a Developer",
   },
