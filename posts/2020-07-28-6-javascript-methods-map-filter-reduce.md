@@ -17,7 +17,7 @@ coverImage: "../static/img/images/CoverImages/6.webp"
 
 I am still focusing on learning JavaScript and especially different JavaScript methods while waiting for the next academic year to begin. The first courses are due to start in early September, so it’s not so long to wait anymore. I hope that it will boost my productivity since now I feel extremely unfocused and a bit confused in the abundance of information.
 
-Anyway, there is still certain progress in my skills. Now I will also probably write more often since I have an idea for a cycle of posts about JavaScript. The first post of this cycle was [published last week](https://create-react-app.com/5-javascript-spread-operator/) and was related to the topic of JS spread operator. In this post, I will go over some significant JavaScript methods such as map, filter, and reduce.
+Anyway, there is still certain progress in my skills. Now I will also probably write more often since I have an idea for a cycle of posts about JavaScript. The first post of this cycle was [published last week](https://www.create-react-app.com/posts/2020-07-24-5-javascript-spread-operator/) and was related to the topic of JS spread operator. In this post, I will go over some significant JavaScript methods such as map, filter, and reduce.
 
 ### Map
 

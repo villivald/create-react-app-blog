@@ -56,7 +56,7 @@ var letters = [...str]
 console.log(letters) // [ 'H', 'e', 'l', 'l', 'o' ]
 ```
 
-Dividing an array into a number (**z**) and an object (**w**), which is, in fact, another array. (More about JS Data Types [here](https://create-react-app.com/javascript-data-types/)).
+Dividing an array into a number (**z**) and an object (**w**), which is, in fact, another array. (More about JS Data Types [here](https://www.create-react-app.com/posts/2020-06-15-javascript-data-types/)).
 
 ```
 var [w, ...z] = [1, 2, 3]

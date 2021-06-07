@@ -186,10 +186,6 @@ Free
 
 ---
 
-### [My Site](https://proj.create-react-app.com/)
+### [My Site](https://villivald.com/)
 
 ### [GitHub](https://github.com/villivald)
-
-### Share
-
-<script src="https://yastatic.net/share2/share.js"></script>

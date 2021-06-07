@@ -18,11 +18,11 @@ tags:
 coverImage: "../static/img/images/CoverImages/9.webp"
 ---
 
-So, as it may be understood from the title of this post, I have made a [new website](https://proj.create-react-app.com/) for my projects. This is not exactly a portfolio or a CV, but something like that. There I put everything that I do during [my studies at the university](https://create-react-app.com/my-studies-at-the-university/) and the self-studies.
+So, as it may be understood from the title of this post, I have made a [new website](https://proj.create-react-app.com/) for my projects. This is not exactly a portfolio or a CV, but something like that. There I put everything that I do during [my studies at the university](https://www.create-react-app.com/posts/2020-05-29-creare-react-app-blog/) and the self-studies.
 
 ### v. 1 - Skeleton
 
-The [first version](https://old.create-react-app.com/Projects/Skeleton/index.html) of the website was made almost a year ago as a web programming [course](https://opetustarjontahaku.lab.fi/search.php#result-13407) assignment. That time I used [Skeleton](http://getskeleton.com/), which is a very simple responsive CSS boilerplate, not so powerful as Bootstrap, but much easier to use. This version of the site was not so fancy, and, in a big way, just a "copy/paste" project from different tutorials.
+The [first version](https://old.villivald.com/Projects/Skeleton/index.html) of the website was made almost a year ago as a web programming [course](https://opetustarjontahaku.lab.fi/search.php#result-13407) assignment. That time I used [Skeleton](http://getskeleton.com/), which is a very simple responsive CSS boilerplate, not so powerful as Bootstrap, but much easier to use. This version of the site was not so fancy, and, in a big way, just a "copy/paste" project from different tutorials.
 
 ![](https://reverent-carson-67c52e.netlify.app/static/img/images/9/Screenshot-2020-09-29-at-16.04.39.png)
 

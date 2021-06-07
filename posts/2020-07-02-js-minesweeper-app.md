@@ -17,7 +17,7 @@ Well, it's been over two weeks since the start of my vacation. Before it started
 
 Anyway, my self-learning continues and I could say that I'm getting more familiar with JavaScript and React. There will be a separate post fully dedicated to React in a few days (I hope).
 
-But let's get back to the point of this post. In the last few days, I've been working on a minor JS project. I was trying to make a simple JS Minesweeper game. So, there is the [result](https://proj.create-react-app.com/Projects/MineSweeper/index.html). At the moment, the game works to some extent, but I guess it still needs a couple of improvements.
+But let's get back to the point of this post. In the last few days, I've been working on a minor JS project. I was trying to make a simple JS Minesweeper game. So, there is the [result](https://old.villivald.com/Projects/MineSweeper/index.html). At the moment, the game works to some extent, but I guess it still needs a couple of improvements.
 
 I noticed a few lags, especially this applies to the corners of the map where it occasionally behaves weirdly. In the near future, I will try to fix them and, I suppose, I will also make some changes to CSS as well.
 

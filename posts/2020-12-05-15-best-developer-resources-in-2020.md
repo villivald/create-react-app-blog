@@ -14,7 +14,7 @@ tags:
 coverImage: "../static/img/images/CoverImages/14.webp"
 ---
 
-Today I will continue my [Top 15 series](https://create-react-app.com/tag/top/) with a brief overview of the best developer resources that I use daily. It is worth saying that there are a lot of great resources that are left behind the brackets. [Dev.to](https://dev.to/villivald), [Medium](https://create-react-app.medium.com/), [Stack Overflow](https://stackoverflow.com/), [GitHub](https://github.com/villivald), and many more obvious ones.
+Today I will continue my [Top 15 series](https://www.create-react-app.com/tags/top) with a brief overview of the best developer resources that I use daily. It is worth saying that there are a lot of great resources that are left behind the brackets. [Dev.to](https://dev.to/villivald), [Medium](https://create-react-app.medium.com/), [Stack Overflow](https://stackoverflow.com/), [GitHub](https://github.com/villivald), and many more obvious ones.
 
 ## 1). FreeCodeCamp
 
@@ -92,7 +92,7 @@ A list of developer setups, gear, software, and configs.
 
 A visual overview of useful skills to learn as a web developer.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/14/Screenshot-2020-12-04-at-2-1024x516.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/14/Screenshot-2020-12-04-at-23.05.23.png)
 
 [https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/)
 

@@ -20,7 +20,7 @@ I did both. First and foremost, I started by figuring out what the heck is a pul
 
 ![github](https://reverent-carson-67c52e.netlify.app/static/img/images/10/Screenshot-2020-10-13-at-16.55.41.png)
 
-My pull requests may not be the most useful in the world, but I tried my best. The primary purpose was to try new technologies and to learn new skills. Among other things, I implemented a [dropdown menu button](https://github.com/imyjimmy/hacktoberfest-app/commit/56b8f75d8cb30dd1dc79112b6afda6e06b61ddd5) with the React Bootstrap library. Later I have also added [some information](https://github.com/GHATAK123/Javascript-Interview-Cheatsheet/commit/2a8769b87dff9b43120e3560119cc5ced00a0861) about using [data types in JS](https://create-react-app.com/javascript-data-types/) to the JavaScript Interview Cheatsheet repository.
+My pull requests may not be the most useful in the world, but I tried my best. The primary purpose was to try new technologies and to learn new skills. Among other things, I implemented a [dropdown menu button](https://github.com/imyjimmy/hacktoberfest-app/commit/56b8f75d8cb30dd1dc79112b6afda6e06b61ddd5) with the React Bootstrap library. Later I have also added [some information](https://github.com/GHATAK123/Javascript-Interview-Cheatsheet/commit/2a8769b87dff9b43120e3560119cc5ced00a0861) about using [data types in JS](https://www.create-react-app.com/posts/2020-06-15-javascript-data-types/) to the JavaScript Interview Cheatsheet repository.
 
 ### Issues
 
@@ -29,6 +29,6 @@ At this point, I realized that I have no idea what is the issue, so I started to
 - ![](https://reverent-carson-67c52e.netlify.app/static/img/images/10/Screenshot-2020-10-13-at-17.15.19.png)
 - ![](https://reverent-carson-67c52e.netlify.app/static/img/images/10/Screenshot-2020-10-13-at-17.15.41.png)
 
-### [Site](https://proj.create-react-app.com/)
+### [Site](https://villivald.com/)
 
 ### [GitHub](https://github.com/villivald)

@@ -23,7 +23,7 @@ Finally, I have some time to write about my experience with React. When I am thi
 
 I guess that the reason is not the complexity of React as a concept, but rather my insufficient understanding of the basics of JavaScript and things related to it. Learning to code turned out to be, at the same time, surprisingly inspiring but also difficult and multilayered. It also differs a lot from my entire previous student experience.
 
-Anyway, in the last few days, I have been working on a React [Todo application](https://proj.create-react-app.com/todo/). As you can see, the functionality of the app is quite limited at the moment. Right now it is only possible to create new tasks, mark tasks as done, or delete them. Nevertheless, I already have on my mind a few options for future development. First of all, I would like to add a possibility to edit tasks and restore them from the trash. Then, there could be some sort of calendar integration, or, at least, the ability to schedule tasks by days. Express could also be added in the future since now there is only local storage for storing information.
+Anyway, in the last few days, I have been working on a React [Todo application](https://old.villivald.com/todo/). As you can see, the functionality of the app is quite limited at the moment. Right now it is only possible to create new tasks, mark tasks as done, or delete them. Nevertheless, I already have on my mind a few options for future development. First of all, I would like to add a possibility to edit tasks and restore them from the trash. Then, there could be some sort of calendar integration, or, at least, the ability to schedule tasks by days. Express could also be added in the future since now there is only local storage for storing information.
 
 The code of an application is available at my [GitHub](https://github.com/villivald/proj/tree/master/todo/code).
 
@@ -92,7 +92,7 @@ I also made some minor changes to my website. There are screenshot and links bel
 
 ![](https://reverent-carson-67c52e.netlify.app/static/img/images/4/Screenshot-2020-07-14-at-16.19.26.png)
 
-[https://create-react-app.com/www/](https://create-react-app.com/www/)
+[https://create-react-app.com/](https://create-react-app.com/)
 
 [https://proj.create-react-app.com/](https://proj.create-react-app.com/)
 

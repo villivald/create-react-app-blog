@@ -20,7 +20,7 @@ During the last couple of months, there were a lot of things happening, so there
 2. Keeping a 1-year streak by going to the gym four times a week + cycling + running sometimes. I can assure you it is possible, but not very easy when you combine it with work and studies.  
    ![Alt Text](https://reverent-carson-67c52e.netlify.app/static/img/images/17/v5g0nfm812mjk9hxwqpm.png)
 3. Looking for a new job (still with no result) and study (112/240 ECTS). Taking part in many job interviews and university courses.
-4. I also improved my [webpage](https://proj.create-react-app.com/) a lot, and added new pages, such as [Books](https://proj.create-react-app.com/books) and [Courses](https://proj.create-react-app.com/courses).  
+4. I also improved my [webpage](https://proj.villivald.com/) a lot, and added new pages, such as [Books](https://proj.villivald.com/books) and [Courses](https://proj.villivald.com/courses).  
    ![Alt Text](https://reverent-carson-67c52e.netlify.app/static/img/images/17/e6xtt0gm5iya3yj4u8dj.png)
 5. Lighthouse score went from the ’50s to almost 100 in all categories. I made a PWA version as well.  
    ![Alt Text](https://reverent-carson-67c52e.netlify.app/static/img/images/17/uoeqer7jxvhf2mhx1zhf.png)
@@ -31,14 +31,14 @@ During the last couple of months, there were a lot of things happening, so there
 
 ## What I am doing right now:
 
-1. Besides my major university studies, I also started to [learn](https://proj.create-react-app.com/courses) Typescript at [Udemy](https://www.udemy.com/course/understanding-typescript/).  
+1. Besides my major university studies, I also started to [learn](https://proj.villivald.com/courses) Typescript at [Udemy](https://www.udemy.com/course/understanding-typescript/).  
    ![Alt Text](https://reverent-carson-67c52e.netlify.app/static/img/images/17/uxy4cl1cf2jna47tgh99.png)
 2. I also took one [React-related course](https://www.lyyti.fi/p/CampusOnline21_Websovelluskehitys_ja_NoSQLkannat_7210) from the [Savonia University of Applied Sciences](https://www.savonia.fi/en/homepage/) via [CampusOnline](https://campusonline.fi/), but not sure if I have enough time to finish it.
 3. In addition to that, there are a lot of different courses at my university right now: [Audiovisual technologies](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19481), [3D Modelling](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19479), [Game Design](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19480), [Software engineering and architecture](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19472), [Data structures and algorithms](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19473), [Software maintenance and testing](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19475), and [Java Course](https://opetustarjontahaku.lab.fi/search.php?lang=en&term=TE00BV49-3001#result-19474).
 
 ## My plans for the next couple of weeks/months:
 
-1. The next blog post, which will be in a form of Mega JavaScript CheatSheet. It would be something like [this Markdown cheat sheet](https://old.create-react-app.com/Projects/Cheatsheet.md), which I did a couple of weeks ago just for myself.  
+1. The next blog post, which will be in a form of Mega JavaScript CheatSheet. It would be something like [this Markdown cheat sheet](https://old.villivald.com/Projects/Cheatsheet.md), which I did a couple of weeks ago just for myself.  
    ![Alt Text](https://reverent-carson-67c52e.netlify.app/static/img/images/17/yg5syxm7ev4gb0afroxc.png)
 2. New [Top 15](https://dev.to/villivald/series/9717). I have found so many new tools and resources, that I just need to share them.  
    ![Alt Text](https://reverent-carson-67c52e.netlify.app/static/img/images/17/ka6ke6e5rltgn00o92yq.png)
