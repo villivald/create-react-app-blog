@@ -19,7 +19,7 @@ Today I will continue my [Top 15 series](https://create-react-app.com/tag/top/) 
 
 A software engineer at Facebook, working on the React team, co-author of [Redux](<https://en.wikipedia.org/wiki/Redux_(JavaScript_library)>), and Create React App.
 
-![TTT](./DKjtY63.png)
+![TTT](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.33.22.png)
 
 [https://overreacted.io/](https://overreacted.io/)
 
@@ -31,7 +31,7 @@ A software engineer at Facebook, working on the React team, co-author of [Redux]
 
 A speaker, developer at Netlify, Vue core team member, and [Staff Writer at CSS-Tricks](https://css-tricks.com/author/sdrasner/). Definitely recommend checking her courses on [Frontend Masters](https://frontendmasters.com/teachers/sarah-drasner/).
 
-![](images/Screenshot-2020-12-12-at-11.34.42-1024x513.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.34.42-1024x513.png)
 
 [https://sarah.dev/](https://sarah.dev/)
 
@@ -41,7 +41,7 @@ A speaker, developer at Netlify, Vue core team member, and [Staff Writer at CSS-
 
 Front end web developer. Author of [CSS Secrets](https://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635?tag=leaverou-20).
 
-![](images/Screenshot-2020-12-12-at-11.49.17-1024x515.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.49.17-1024x515.png)
 
 [https://lea.verou.me/](https://lea.verou.me/)
 
@@ -51,7 +51,7 @@ Front end web developer. Author of [CSS Secrets](https://www.amazon.com/CSS-Secr
 
 The founder of [freeCodeCamp.org](https://www.freecodecamp.org/news/author/quincylarson/).
 
-![](images/Screenshot-2020-12-12-at-11.50.38-1024x822.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.50.38-1024x822.png)
 
 [https://twitter.com/ossia](https://twitter.com/ossia)
 
@@ -59,7 +59,7 @@ The founder of [freeCodeCamp.org](https://www.freecodecamp.org/news/author/quinc
 
 A passionate software engineer, author of [many books](https://flaviocopes.com/page/ebooks/) and tutorials.
 
-![](images/Screenshot-2020-12-12-at-11.36.04-1024x490.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.36.04-1024x490.png)
 
 [https://flaviocopes.com/](https://flaviocopes.com/)
 
@@ -69,7 +69,7 @@ A passionate software engineer, author of [many books](https://flaviocopes.com/p
 
 A well known full stack developer, co-host of [Syntax](https://syntax.fm/) podcast, and an author of amazing [courses](https://wesbos.com/courses). Creator of [uses.tech](https://uses.tech/) project.
 
-![](images/Screenshot-2020-12-12-at-11.37.03-1024x530.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.37.03-1024x530.png)
 
 [https://wesbos.com/blog](https://wesbos.com/blog)
 
@@ -79,7 +79,7 @@ A well known full stack developer, co-host of [Syntax](https://syntax.fm/) podca
 
 A software engineer, working in Microsoft (VS Code team). A charismatic author of the Fronted Masters's [courses](https://frontendmasters.com/teachers/brian-holt/) that I like the most.
 
-![](images/Screenshot-2020-12-12-at-11.38.12-1024x854.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.38.12-1024x854.png)
 
 [https://twitter.com/holtbt](https://twitter.com/holtbt)
 
@@ -87,7 +87,7 @@ A software engineer, working in Microsoft (VS Code team). A charismatic author o
 
 Design-oriented Front End Developer. An author of [Debugging CSS](https://debuggingcss.com/).
 
-![](images/Screenshot-2020-12-12-at-11.52.13-1024x475.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.52.13-1024x475.png)
 
 [https://ishadeed.com/](https://ishadeed.com/)
 
@@ -97,7 +97,7 @@ Design-oriented Front End Developer. An author of [Debugging CSS](https://debugg
 
 The author of [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) book series. Kyle has a couple of great [courses](https://frontendmasters.com/teachers/kyle-simpson/) on Frontend Masters as well.
 
-![](images/Screenshot-2020-12-12-at-11.39.47-1024x856.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.39.47-1024x856.png)
 
 [https://me.getify.com/](https://me.getify.com/)
 
@@ -107,7 +107,7 @@ The author of [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) bo
 
 Created [CSS-Tricks](https://css-tricks.com/) - one of the most useful and inspiring platforms with web dev related articles. Co-founder of [CodePen](https://codepen.io/).
 
-![](images/Screenshot-2020-12-12-at-11.42.46-1024x491.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.42.46-1024x491.png)
 
 [https://chriscoyier.net/blog/](https://chriscoyier.net/blog/)
 
@@ -117,7 +117,7 @@ Created [CSS-Tricks](https://css-tricks.com/) - one of the most useful and inspi
 
 Enthusiastic web developer at Netlify. A host of [Learn With Jason](https://www.learnwithjason.dev/) live show. Jason is also a teacher on [Frontend Masters](https://frontendmasters.com/teachers/jason-lengstorf/).
 
-![](images/Screenshot-2020-12-12-at-11.40.57-1024x463.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.40.57-1024x463.png)
 
 [https://www.jason.af/](https://www.jason.af/)
 
@@ -127,7 +127,7 @@ Enthusiastic web developer at Netlify. A host of [Learn With Jason](https://www.
 
 The author of the [Fullstack D3](https://www.newline.co/fullstack-d3) book and a very beautiful website. Shares her [thoughts](https://wattenberger.com/blog).
 
-![](images/Screenshot-2020-12-12-at-11.45.40-1024x510.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.45.40-1024x510.png)
 
 [https://wattenberger.com/](https://wattenberger.com/)
 
@@ -137,7 +137,7 @@ The author of the [Fullstack D3](https://www.newline.co/fullstack-d3) book and a
 
 Jenn Schiffer is a web app developer, [pixel artist](https://jennmoney.biz/art/index.html), and tech satirist.
 
-![](images/Screenshot-2020-12-12-at-11.47.32-1-1024x524.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.47.32-1-1024x524.png)
 
 [https://livelaugh.blog/](https://livelaugh.blog/)
 
@@ -149,7 +149,7 @@ Jenn Schiffer is a web app developer, [pixel artist](https://jennmoney.biz/art/i
 
 Katy is a frontend engineer and author of an inspiring all-around [blog](https://katydecorah.com/).
 
-![](images/Screenshot-2020-12-12-at-11.44.28-1024x479.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.44.28-1024x479.png)
 
 [https://katydecorah.com/](https://katydecorah.com/)
 
@@ -159,7 +159,7 @@ Katy is a frontend engineer and author of an inspiring all-around [blog](https:/
 
 Vadim is the founder of [Web Standards](https://twitter.com/webstandards_ru), the first Russian front end community. The host of the Russian speaking [Web Standards podcast](https://itunes.apple.com/podcast/id1080500016).
 
-![](images/Screenshot-2020-12-12-at-11.51.15-1024x794.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/15/Screenshot-2020-12-12-at-11.51.15-1024x794.png)
 
 [https://twitter.com/pepelsbey\_](https://twitter.com/pepelsbey_)
 
@@ -167,12 +167,6 @@ Please feel free to complete the list by replying to this post. Which blogs do y
 
 ---
 
-### [
-
-My Site](https://proj.create-react-app.com/)
+### [My Site](https://villivald.com/)
 
 ### [GitHub](https://github.com/villivald)
-
-### Share
-
-<script src="https://yastatic.net/share2/share.js"></script>

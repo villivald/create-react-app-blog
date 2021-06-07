@@ -17,7 +17,7 @@ Today I will keep up my [Top 15 series](https://create-react-app.com/tag/top/) f
 
 It is a website with a simply genius approach. Explains the difference between things like :active vs :focus (CSS), class vs id (HTML), for ... in vs for ... of (JS), and so on.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-10.59.34-1024x689.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-10.59.34.png)
 
 [https://thisthat.dev/](https://thisthat.dev/)
 
@@ -25,7 +25,7 @@ It is a website with a simply genius approach. Explains the difference between t
 
 Stylish and informative software-related magazine. Articles by well-known experts such as Chris Coyier, Lea Verou, Dan Abramov, etc.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.10.02-1024x549.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.10.02.png)
 
 [https://increment.com/](https://increment.com/)
 
@@ -33,7 +33,7 @@ Stylish and informative software-related magazine. Articles by well-known expert
 
 A great place to share and search for components. WebComponents provides articles, presentations, podcasts, tools, and more to help web professionals. All the content on this site is totally free.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.20.27-1024x630.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.20.27.png)
 
 [https://www.webcomponents.org/](https://www.webcomponents.org/)
 
@@ -41,7 +41,7 @@ A great place to share and search for components. WebComponents provides article
 
 A very clever and simple tool for picking a new brand color for your project. It displays the colors with the color codes - HEX, RGB, HSL. Made by [Mustafa Enes Ertarhanaci](https://github.com/scriptype).
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.25.47-945x1024.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.25.47.png)
 
 [https://enes.in/sorted-colors/](https://enes.in/sorted-colors/)
 
@@ -49,7 +49,7 @@ A very clever and simple tool for picking a new brand color for your project. It
 
 A free collection of icons and photos for almost everything.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.28.58-1024x510.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.28.58.png)
 
 [https://thenounproject.com/](https://thenounproject.com/)
 
@@ -57,7 +57,7 @@ A free collection of icons and photos for almost everything.
 
 The AI-powered color tool. Khroma learns from your input and generates combos of color palettes.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.38.44-1024x499.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.38.44.png)
 
 [http://khroma.co/](http://khroma.co/train/)
 
@@ -65,7 +65,7 @@ The AI-powered color tool. Khroma learns from your input and generates combos of
 
 An ultimate tool for creating a Grid Layout. Pretty much everything you need to know about Grid.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.49.01-1024x543.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.49.01.png)
 
 [https://gridbyexample.com/](https://gridbyexample.com/)
 
@@ -73,7 +73,7 @@ An ultimate tool for creating a Grid Layout. Pretty much everything you need to 
 
 The community-driven resource library of CSS Houdini worklets. The first time I heard about it from [Una Kravets](https://twitter.com/una) @ [Chrome Dev Summit](https://developer.chrome.com/devsummit/). Great place to dive deeper into learning Houdini.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.56.11-1024x644.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.56.11.png)
 
 [https://houdini.how/](https://houdini.how/)
 
@@ -81,7 +81,7 @@ The community-driven resource library of CSS Houdini worklets. The first time I 
 
 A very easy to use and completely free online tool for making a professional tech resume.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-11.58.52-1024x536.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-11.58.52.png)
 
 [https://resumake.io/](https://resumake.io/)
 
@@ -89,7 +89,7 @@ A very easy to use and completely free online tool for making a professional tec
 
 A super useful tool for adjusting the color accessibility of your project.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-12.03.42-1024x621.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-12.03.42.png)
 
 [https://color.review/](https://color.review/)
 
@@ -97,7 +97,7 @@ A super useful tool for adjusting the color accessibility of your project.
 
 An open-source web developers community. An awesome collection of design resources, app ideas, developer portfolios, public APIs, youtube channels, etc.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-12.09.14-1024x507.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-12.09.14.png)
 
 [https://webdevscom.github.io/](https://webdevscom.github.io/)
 
@@ -105,7 +105,7 @@ An open-source web developers community. An awesome collection of design resourc
 
 An interview preparation guide for software engineers.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-12.12.39-1024x502.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-12.12.39.png)
 
 [https://interviews.school/](https://interviews.school/)
 
@@ -113,7 +113,7 @@ An interview preparation guide for software engineers.
 
 A very funny and inspiring collection of websites that resemble desktop graphical user interfaces. A place to be spaced out.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-12.15.02-1024x725.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-12.15.02.png)
 
 [https://simone.computer/#/webdesktops](https://simone.computer/#/webdesktops)
 
@@ -121,7 +121,7 @@ A very funny and inspiring collection of websites that resemble desktop graphica
 
 A useful tool for producing tints and shades of a given hex color in 10% increments.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-12.22.30-1024x746.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-12.22.30.png)
 
 [https://maketintsandshades.com/](https://maketintsandshades.com/)
 
@@ -129,7 +129,7 @@ A useful tool for producing tints and shades of a given hex color in 10% increme
 
 A newsletter for frontend developers.
 
-![](https://reverent-carson-67c52e.netlify.app/static/img/images/Screenshot-2020-12-25-at-12.25.47-1024x513.png)
+![](https://reverent-carson-67c52e.netlify.app/static/img/images/16/Screenshot-2020-12-25-at-12.25.47.png)
 
 [https://frontend.horse/](https://frontend.horse/)
 
@@ -139,10 +139,6 @@ P.P.S. Also, please, reply if you would like me to continue with posts like this
 
 ---
 
-### [My Site](https://proj.create-react-app.com/)
+### [My Site](https://villivald.com/)
 
 ### [GitHub](https://github.com/villivald)
-
-### Share
-
-<script src="https://yastatic.net/share2/share.js"></script>
