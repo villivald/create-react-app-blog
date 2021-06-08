@@ -16,15 +16,15 @@ eleventyNavigation:
 <div class="container">
   <div class="hero">
     <h1>
-    Welcome to 
-    <div class="blogTitle">
       {% if site.hero.title %}
+        {% if pagination.pageNumber === 0 %} Welcome to {% endif %}
         {% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber + 1 }} | {% endif %}
-        {{ site.hero.title }}
+        <div class="blogTitle">
+          {{ site.hero.title }}
+        </div>
       {% else %}
         {{ site.meta.title }}
       {% endif %}
-      </div>
        Blog
     </h1>
     <p class="hero__description">

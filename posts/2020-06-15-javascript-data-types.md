@@ -16,6 +16,8 @@ In addition to my main studies, I constantly watch [FrontendMasters](https://fro
 
 Well, at first, there are some basic data types, like strings, numbers and booleans (true vs false):
 
+![](https://reverent-carson-67c52e.netlify.app/static/img/codeImages/types.png)
+
 ```javascript
 console.log(typeof "Test")
 → string
