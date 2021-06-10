@@ -17,7 +17,7 @@ eleventyNavigation:
   <div class="hero">
     <h1>
       {% if site.hero.title %}
-        {% if pagination.pageNumber === 0 %} Welcome to {% endif %}
+        {% if pagination.pageNumber === 0 %}Welcome to {% endif %}
         {% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber + 1 }} | {% endif %}
         <div class="blogTitle">
           {{ site.hero.title }}

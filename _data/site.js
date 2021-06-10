@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    title: "Create React App Blog",
+    title: "⚡️ Create React App Blog",
     description:
       "Web Dev Tools, Productivity Tips & Stories About My Journey to Become a Developer",
     lang: "en",
