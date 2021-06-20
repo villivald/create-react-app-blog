@@ -1,6 +1,6 @@
 ---
 title: About
-description: All about me in this page
+description: All about me
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
@@ -8,7 +8,8 @@ eleventyNavigation:
   weight: 2
 ---
 
-![selfpicture](https://reverent-carson-67c52e.netlify.app/static/img/about.webp)
+<div class="aboutWrapper">
+  <img class="selflogo" alt="react logo" src="../../static/img/about.webp"/>
 
   <div class="about-links-container">
     <div class="link">
@@ -57,3 +58,4 @@ eleventyNavigation:
       </a>
     </div>
   </div>
+</div>
