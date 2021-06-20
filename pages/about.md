@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 description: All about me in this page
 layout: layouts/post.njk
 hideTagsList: true
@@ -8,25 +8,52 @@ eleventyNavigation:
   weight: 2
 ---
 
+![selfpicture](https://reverent-carson-67c52e.netlify.app/static/img/about.webp)
 
-consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus. Sit amet consectetur adipiscing elit duis. A diam maecenas sed enim ut. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Gravida neque convallis a cras semper auctor. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Dolor sed viverra ipsum nunc aliquet bibendum. Netus et malesuada fames ac turpis egestas sed tempus. Nunc sed augue lacus viverra. Potenti nullam ac tortor vitae. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
-
-## Erat pellentesque adipiscing commodo elit at imperdiet.
-
-Ultrices in iaculis nunc sed augue lacus viverra vitae. Porttitor leo a diam sollicitudin. Nunc congue nisi vitae suscipit. Odio morbi quis commodo odio aenean sed adipiscing diam donec. 
-
-### Urna neque viverra justo nec ultrices. 
-
-Vitae aliquet nec ullamcorper sit amet risus. Neque viverra justo nec ultrices dui sapien eget mi. At consectetur lorem donec massa sapien faucibus et molestie. Mauris cursus mattis molestie a. Risus nec feugiat in fermentum posuere urna nec. Egestas sed sed risus pretium. 
-
-#### quam vulputate dignissim suspendisse in.
-
-Nulla aliquet porttitor lacus luctus accumsan tortor. Malesuada pellentesque elit eget gravida cum sociis natoque. Amet luctus venenatis lectus magna fringilla. Accumsan tortor posuere ac ut consequat semper. Varius duis at consectetur lorem. Condimentum id venenatis a condimentum. Vulputate ut pharetra sit amet. Dolor sit amet consectetur adipiscing. Odio eu feugiat pretium nibh ipsum consequat nisl. Amet cursus sit amet dictum sit amet justo donec. Nibh sed pulvinar proin gravida hendrerit. Eget egestas purus viverra accumsan in nisl nisi. Arcu risus quis varius quam quisque id diam vel. Ut tortor pretium.
-
-##### viverra suspendisse potenti nullam ac tortor.
-
-Facilisis gravida neque convallis a cras semper auctor. Turpis massa tincidunt dui ut ornare lectus. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Feugiat vivamus at augue eget arcu dictum. Posuere urna nec tincidunt praesent. Ipsum consequat nisl vel pretium lectus quam id leo in. Nulla malesuada pellentesque elit eget gravida cum. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Mattis aliquam faucibus purus in massa. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Odio ut sem nulla pharetra diam sit amet nisl. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Risus nullam eget felis eget nunc lobortis mattis. Lectus magna fringilla urna porttitor rhoncus dolor. Lorem ipsum dolor sit amet 
-
-###### consectetur adipiscing elit duis.
-
-Molestie a iaculis at erat pellentesque adipiscing commodo. Ullamcorper velit sed ullamcorper morbi. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Integer vitae justo eget magna fermentum iaculis. Odio tempor orci dapibus ultrices in iaculis nunc. Purus sit amet luctus venenatis lectus magna fringilla urna. Iaculis nunc sed augue lacus viverra vitae congue eu. Id velit ut tortor pretium viverra suspendisse. Tellus elementum sagittis vitae et leo. Nulla malesuada pellentesque elit eget gravida cum sociis. Eget aliquet nibh praesent tristique magna sit amet. Purus sit amet volutpat consequat mauris nunc congue nisi. Sit amet aliquam id diam maecenas ultricies. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Quis ipsum suspendisse ultrices gravida dictum fusce. Ut consequat semper viverra nam libero justo laoreet. Iaculis at erat pellentesque adipiscing commodo. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent.
+  <div class="about-links-container">
+    <div class="link">
+      <a href="https://villivald.com" class="linkContainer">
+        <img class="aboutlogo" alt="react logo" src="../../static/img/icons/react.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="https://github.com/villivald" class="linkContainer">
+        <img class="aboutlogo" alt="git logo" src="../../static/img/icons/github-icon.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="https://twitter.com/crapp_blog" class="linkContainer">
+        <img class="aboutlogo" alt="twitter logo" src="../../static/img/icons/twitter.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="https://dev.to/villivald" class="linkContainer">
+        <img class="aboutlogo" alt="dev.to logo" src="../../static/img/icons/dev-badge.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="https://hackernoon.com/u/villivald" class="linkContainer">
+        <img class="aboutlogo" alt="hackernoon logo" src="../../static/img/icons/hackernoon.svg"/>
+      </a>
+    </div>
+      <div class="link">
+      <a href="https://proj.ninja" class="linkContainer">
+        <img class="aboutlogo" alt="hashnode logo" src="../../static/img/icons/hashnode.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="https://www.linkedin.com/in/maxim-villivald-4b1b311a3/" class="linkContainer">
+        <img class="aboutlogo" alt="linkedin logo" src="../../static/img/icons/linkedin-icon.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="https://t.me/create_react_app" class="linkContainer">
+        <img class="aboutlogo" alt="telegram logo" src="../../static/img/icons/telegram.svg"/>
+      </a>
+    </div>
+    <div class="link">
+      <a href="mailto:maxim@villivald@com" class="linkContainer">
+        <img class="aboutlogo" alt="gmail logo" src="../../static/img/icons/gmail.svg"/>
+      </a>
+    </div>
+  </div>

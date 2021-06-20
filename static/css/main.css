@@ -92,6 +92,13 @@ a:hover {
 hr {
   border-color: rgba(0,0,0,0.1);
 }
+.about-links-container {
+  display: flex;
+  gap: 15px;
+}
+.aboutlogo {
+  width: 58px;
+}
 .container,
 .container-sm {
   margin: 0 auto;
