@@ -151,15 +151,24 @@ body.dark .footer {
   }
 }
 .hero {
-  margin: 5rem 0;
+  margin: 1rem 0;
 }
 .hero__description {
-  max-width: 50ch;
+  text-align: center;
 }
 .hero .blogTitle {
   display: inline;
   text-decoration: underline wavy #7300e6;
   text-underline-offset: 6px;
+}
+.heroLogo {
+  width: 13%;
+}
+.heroHeader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .navbar {
   padding: 1rem;

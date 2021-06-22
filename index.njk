@@ -15,7 +15,9 @@ eleventyNavigation:
 
 <div class="container">
   <div class="hero">
-    <h1>
+    <h1 class="heroHeader">
+    <img src="https://reverent-carson-67c52e.netlify.app/static/img/android-chrome-384x384.png" class="heroLogo">
+    <div>
       {% if site.hero.title %}
         {% if pagination.pageNumber === 0 %}Welcome to {% endif %}
         {% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber + 1 }} | {% endif %}
@@ -26,6 +28,7 @@ eleventyNavigation:
         {{ site.meta.title }}
       {% endif %}
        Blog
+    <div>
     </h1>
     <p class="hero__description">
       {% if site.hero.description %}
