@@ -152,9 +152,8 @@ body.dark .footer {
 }
 .hero {
   margin: 1rem 0;
-}
-.hero__description {
-  text-align: center;
+  display: flex;
+  justify-content: space-between;
 }
 .hero .blogTitle {
   display: inline;
@@ -163,12 +162,11 @@ body.dark .footer {
 }
 .heroLogo {
   width: 13%;
+  border-radius: 0.25rem;
 }
 .heroHeader {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 .navbar {
   padding: 1rem;
