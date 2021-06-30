@@ -154,6 +154,7 @@ body.dark .footer {
   margin: 1rem 0;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .hero .blogTitle {
   display: inline;
@@ -161,7 +162,7 @@ body.dark .footer {
   text-underline-offset: 6px;
 }
 .heroLogo {
-  width: 13%;
+  width: clamp(100px, 133px, 20%);
   border-radius: 0.25rem;
 }
 .heroHeader {
