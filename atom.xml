@@ -5,7 +5,7 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-07-12T08:16:20Z</updated>
+	<updated>2021-07-12T08:25:21Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
@@ -17,25 +17,25 @@
 		<link href="/eleventy-stylus-blog-theme/posts/2021-07-12-top-10-web-dev-tools-07-2021/"/>
 		<updated>2021-07-11T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2021-07-12-top-10-web-dev-tools-07-2021/</id>
-		<content type="html">&lt;p&gt;Hi everyone 👋. My vacation has officially started 🥳 and I would like to present you the July edition of my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I am trying to pick the most intriguing and handy instruments that, I believe, are must-haves for every web developer. This time there are:&lt;/p&gt;
+		<content type="html">&lt;p&gt;Hi everyone 👋. My vacation has officially started 🥳, and I would like to present you the July edition of my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I am trying to pick the most intriguing and handy instruments that, I believe, are must-haves for every web developer. This time there are:&lt;/p&gt;
 &lt;h2&gt;1). Next.js&lt;/h2&gt;
-&lt;p&gt;This time I would like to strart with the Next.js, which is really not a tool, but a whole framework with hybrid static &amp;amp; server rendering, TypeScript support, smart bundling, route pre-fetching, and more. I&#39;ve wanted to use it in some project for a long time, and finally I did it in my last &lt;a href=&quot;https://koripallopaikat.vercel.app&quot;&gt;project&lt;/a&gt;. Next.js provides you the easiest ways to create API&#39;s and work with routing and navigation. I must say t hat the overall developer experience is at the great level, definitely must try.&lt;/p&gt;
+&lt;p&gt;This time I would like to start with Next.js, which is really not a tool, but a whole framework with hybrid static &amp;amp; server rendering, TypeScript support, smart bundling, route pre-fetching, and more. I&#39;ve wanted to use it in some projects for a long time, and finally, I did it in my last &lt;a href=&quot;https://koripallopaikat.vercel.app&quot;&gt;web app&lt;/a&gt;. Next.js provides you the easiest ways to create APIs and work with routing and navigation. I must say that the overall developer experience is at a great level, definitely must try.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/next.webp&quot; alt=&quot;next&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://nextjs.org/&quot;&gt;https://nextjs.org/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;2). Vite&lt;/h2&gt;
-&lt;p&gt;Vite is blazing fast and easy to configure build tool. It uses &lt;a href=&quot;https://esbuild.github.io/&quot;&gt;esbuild&lt;/a&gt; for bundling, which is written in Go and pre-bundles dependencies 10-100x faster than JavaScript-based bundlers. I recently used Vite in one of my latest &lt;a href=&quot;https://vaccine2021.vercel.app/&quot;&gt;projects&lt;/a&gt; and I&#39;m currently planning to move my &lt;a href=&quot;https://villivald.com&quot;&gt;site&lt;/a&gt; to it (from create-react-app incl. webpack).&lt;/p&gt;
+&lt;p&gt;Vite is a blazing fast and easy to configure build tool. It uses &lt;a href=&quot;https://esbuild.github.io/&quot;&gt;esbuild&lt;/a&gt; for bundling, which is written in Go and pre-bundles dependencies 10-100x faster than JavaScript-based bundlers. I recently used Vite in one of my latest &lt;a href=&quot;https://vaccine2021.vercel.app/&quot;&gt;projects&lt;/a&gt;, and I&#39;m currently planning to move my &lt;a href=&quot;https://villivald.com&quot;&gt;site&lt;/a&gt; to it (from create-react-app incl. webpack).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/vite.webp&quot; alt=&quot;vite&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vitejs.dev/&quot;&gt;https://vitejs.dev/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;3). Bundlephobia&lt;/h2&gt;
 &lt;p&gt;Bundlephobia is a very useful project that helps you to find the performance impact of npm packages.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/bundlephobia.webp&quot; alt=&quot;bundlephobia&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://bundlephobia.com/&quot;&gt;https://bundlephobia.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;4). Svg Path Visualizer&lt;/h2&gt;
-&lt;p&gt;This web tool allows you to explore an svg path in a visual way.&lt;/p&gt;
+&lt;h2&gt;4). SVG Path Visualizer&lt;/h2&gt;
+&lt;p&gt;This web tool allows you to explore an SVG path in a visual way.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/svg.webp&quot; alt=&quot;svg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://svg-path-visualizer.netlify.app/&quot;&gt;https://svg-path-visualizer.netlify.app/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;5). Clippy&lt;/h2&gt;
-&lt;p&gt;Clippy might be the easiest way to create a CSS clip paths. I would also recommend to check out the other projects made by &lt;a href=&quot;https://bennettfeely.com/&quot;&gt;Bennett Feely&lt;/a&gt; since he has very interesting approaches.&lt;/p&gt;
+&lt;p&gt;Clippy might be the easiest way to create CSS clip paths. I would also recommend checking out the other projects made by &lt;a href=&quot;https://bennettfeely.com/&quot;&gt;Bennett Feely&lt;/a&gt; since he has very interesting approaches.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/clippy.webp&quot; alt=&quot;clippy&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://bennettfeely.com/clippy/&quot;&gt;https://bennettfeely.com/clippy/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;6). Material Design icons by Google&lt;/h2&gt;
@@ -43,7 +43,7 @@
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/icons.webp&quot; alt=&quot;icons&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://fonts.google.com/icons&quot;&gt;https://fonts.google.com/icons&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;7). Haikei&lt;/h2&gt;
-&lt;p&gt;This is a very inspiring web tool for generating unique SVG shapes, backgrounds, and patterns.&lt;/p&gt;
+&lt;p&gt;Haikei is a very inspiring web tool for generating unique SVG shapes, backgrounds, and patterns.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/haikei.webp&quot; alt=&quot;haikei&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://app.haikei.app/&quot;&gt;https://app.haikei.app/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;8). CSS Reference&lt;/h2&gt;
@@ -51,11 +51,11 @@
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/css.webp&quot; alt=&quot;css&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://cssreference.io/&quot;&gt;https://cssreference.io/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;9). Snappify&lt;/h2&gt;
-&lt;p&gt;Snappify is an another tool for creating beautiful code snippets. Works almost exactly like &lt;a href=&quot;https://ray.so/&quot;&gt;Ray.so&lt;/a&gt; that I mentioned in one of my &lt;a href=&quot;https://www.create-react-app.com/posts/2021-04-06-top-10-web-dev-tools-04-2021/&quot;&gt;earlier posts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Snappify is another tool for creating beautiful code snippets. It works almost exactly like &lt;a href=&quot;https://ray.so/&quot;&gt;Ray.so&lt;/a&gt; that I mentioned in one of my &lt;a href=&quot;https://www.create-react-app.com/posts/2021-04-06-top-10-web-dev-tools-04-2021/&quot;&gt;earlier posts&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/snappify.webp&quot; alt=&quot;snappify&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://snappify.io/&quot;&gt;https://snappify.io/&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;10). JS is Weird&lt;/h2&gt;
-&lt;p&gt;Not exactly a tool, but a funny quiz that shows you the weirdest parts of the JavaScript. Somehow I got 16/25 😀. Please share your results in the comments 🤓.&lt;/p&gt;
+&lt;p&gt;Not exactly a tool, but a fun quiz, that shows you the weirdest parts of JavaScript. Somehow I got 16/25 😀. Please, share your results in the comments 🤓.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/js.webp&quot; alt=&quot;js&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://jsisweird.com/&quot;&gt;https://jsisweird.com/&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
