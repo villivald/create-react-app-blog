@@ -5,12 +5,64 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-07-12T08:25:21Z</updated>
+	<updated>2021-08-17T10:28:17Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
 		<email>maxim@villivald.com</email>
 	</author>
+	
+	<entry>
+		<title>[24] Top 10 Must-Have Web Dev Tools – August 2021</title>
+		<link href="/eleventy-stylus-blog-theme/posts/2021-08-17-top-10-web-dev-tools-08-2021/"/>
+		<updated>2021-08-17T00:00:00Z</updated>
+		<id>/eleventy-stylus-blog-theme/posts/2021-08-17-top-10-web-dev-tools-08-2021/</id>
+		<content type="html">&lt;p&gt;Hi everyone 👋. Today I would like to present you the brand new August edition of my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I am trying to pick the most intriguing and handy instruments that, I believe, are must-haves for every web developer. This time there are:&lt;/p&gt;
+&lt;h2&gt;1). GitHub Copilot&lt;/h2&gt;
+&lt;p&gt;Copilot is an AI tool developed by GitHub to assist users of VS Code. It is still in a Technical Preview state and requires joining the waitlist, but from my experience, I would say that Copilot has all prerequisites to become the Next Big Thing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/copilot.webp&quot; alt=&quot;copilot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://copilot.github.com/&quot;&gt;https://copilot.github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;2). Glitch&lt;/h2&gt;
+&lt;p&gt;Glitch is a very easy-to-use and user-friendly tool that allows you to build fast, full-stack web apps in a browser for free.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/glitch.webp&quot; alt=&quot;glitch&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://glitch.com/&quot;&gt;https://glitch.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;3). Meta Tags&lt;/h2&gt;
+&lt;p&gt;With Meta Tags, you can generate and edit your website&#39;s metatags, as well as preview how your webpage will look on Google, Facebook, Twitter, LinkedIn, and other platforms.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/metatags.webp&quot; alt=&quot;metatags&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://metatags.io/&quot;&gt;https://metatags.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;4). Omatsuri&lt;/h2&gt;
+&lt;p&gt;Omatsuri is an open-source web app with 12 browser tools for everyday use. At the moment there are such useful tool as &lt;a href=&quot;https://omatsuri.app/color-shades-generator&quot;&gt;color shades generator&lt;/a&gt;, &lt;a href=&quot;https://omatsuri.app/fake-data-generator&quot;&gt;fake data generator&lt;/a&gt;, &lt;a href=&quot;https://omatsuri.app/svg-compressor&quot;&gt;svg compressor&lt;/a&gt; and much more.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/omatsuri.webp&quot; alt=&quot;omatsuri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://omatsuri.app/&quot;&gt;https://omatsuri.app/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;5). Happy Hues&lt;/h2&gt;
+&lt;p&gt;Happy Hues is an extremely good-looking collection of curated color palettes. Feel free to choose your &lt;a href=&quot;https://www.happyhues.co/palettes/5&quot;&gt;favorite&lt;/a&gt; and use it in your next project.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/happyhues.webp&quot; alt=&quot;happyhues&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.happyhues.co/&quot;&gt;https://www.happyhues.co/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;6). Jamstack Explorers&lt;/h2&gt;
+&lt;p&gt;Jamstack Explorers is a learning platform from Netlify. As it is obvious from the title, this platform is dedicated to Jamstack (which stands for JavaScript, API &amp;amp; Markup) related technologies. At the moment they have 9 courses on topics such as Next.js (by &lt;a href=&quot;https://twitter.com/cassidoo&quot;&gt;Cassidy Williams&lt;/a&gt;), Serverless functions (by &lt;a href=&quot;https://twitter.com/bencodezen&quot;&gt;Ben Hong&lt;/a&gt;), Nuxt.js &amp;amp; Sanity (by &lt;a href=&quot;https://twitter.com/kenny_io&quot;&gt;Ekene Eze&lt;/a&gt;), etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/jamstack.webp&quot; alt=&quot;jamstack&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://explorers.netlify.com/&quot;&gt;https://explorers.netlify.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;7). Devtool Tips&lt;/h2&gt;
+&lt;p&gt;An open-source curated collection of devtool tips on different themes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/devtool.webp&quot; alt=&quot;devtool&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://devtoolstips.org/&quot;&gt;https://devtoolstips.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;8). Error404&lt;/h2&gt;
+&lt;p&gt;A broad collection of unique and fun illustrations for your website&#39;s 404 pages. You can see those illustrations in action since I use them on my &lt;a href=&quot;https://villivald.com/SecretPage&quot;&gt;personal site&lt;/a&gt; and my &lt;a href=&quot;https://koripallopaikat.com/LebronJames&quot;&gt;latest basketball-related project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/error.webp&quot; alt=&quot;error&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://error404.fun/&quot;&gt;https://error404.fun/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;9). What The Filter ?&lt;/h2&gt;
+&lt;p&gt;A visual playground to JavaScript array &amp;amp; object transformations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/filter.webp&quot; alt=&quot;filter&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://renato-bohler.github.io/what-the-filter/&quot;&gt;https://renato-bohler.github.io/what-the-filter/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;10). Contraste&lt;/h2&gt;
+&lt;p&gt;Contraste is a lightweight macOS app that allows you to check the accessibility of text against the Web Content Accessibility Guidelines (WCAG).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/contraste.webp&quot; alt=&quot;contraste&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://contrasteapp.com/&quot;&gt;https://contrasteapp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href=&quot;https://villivald.com/&quot;&gt;My Site&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>[23] Top 10 Must-Have Web Dev Tools – July 2021</title>
