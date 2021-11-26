@@ -6,16 +6,22 @@ layout: layouts/base.njk
   <h1>{{ title }}</h1>
   {{ content | safe }}
 
-  <br><hr>
+  <script 
+    src="https://utteranc.es/client.js"
+    repo="villivald/create-react-app-blog"
+    issue-term="url"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+  </script>
+
+  <br />
+  <hr />
   {% if not hideTagsList %}
-    <b>Tags: </b>
-    {% for tag in tags %}
-      {% if tag != 'post' %}
-        <a href="{{ '/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
-        {%- if not loop.last %}, {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-  <br><br>
+  <b>Tags: </b>
+  {% for tag in tags %} {% if tag != 'post' %}
+  <a href="{{ '/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
+  {%- if not loop.last %}, {% endif %} {% endif %} {% endfor %} {% endif %}
+  <br /><br />
   <a href="{{ '/' | url }}">&larr; Back home</a>
 </div>
