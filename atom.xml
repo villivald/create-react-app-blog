@@ -5,7 +5,7 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-11-30T10:01:09Z</updated>
+	<updated>2021-11-30T10:06:17Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
@@ -34,7 +34,7 @@
 &lt;p&gt;An awesome collection of data visualization tools for different occasions.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/cube.webp&quot; alt=&quot;data visualization tools&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://awesome.cube.dev/&quot;&gt;https://awesome.cube.dev/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;5). Couleur&lt;/h2&gt;
+&lt;h2&gt;5). couleur&lt;/h2&gt;
 &lt;p&gt;A simple tool to help you create harmonizing color palettes with HSL color values. You should also check an Accessible Palette tool from my &lt;a href=&quot;https://www.create-react-app.com/posts/2021-10-19-top-10-web-dev-tools-10-2021/#:~:text=Accessible%20Palette&quot;&gt;last post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/couleur.webp&quot; alt=&quot;color palettes&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://couleur.io/&quot;&gt;https://couleur.io/&lt;/a&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
 &lt;p&gt;Collection of simple elements for UI development you can play around with.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/uiui.webp&quot; alt=&quot;ui elements&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.uiui.dev/&quot;&gt;https://www.uiui.dev/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;7). Shadow palette&lt;/h2&gt;
+&lt;h2&gt;7). Shadow Palette Generator&lt;/h2&gt;
 &lt;p&gt;Actually, this one should be number one on this list. An amazing shadow palette generator by &lt;a href=&quot;https://www.joshwcomeau.com/&quot;&gt;Josh Comeau&lt;/a&gt; who is also a creator of &lt;a href=&quot;https://css-for-js.dev/&quot;&gt;CSS for JavaScript Developers&lt;/a&gt; course.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/shadow.webp&quot; alt=&quot;shadow palette&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.joshwcomeau.com/shadow-palette/&quot;&gt;https://www.joshwcomeau.com/shadow-palette/&lt;/a&gt;&lt;/p&gt;
