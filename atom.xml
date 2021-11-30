@@ -5,12 +5,64 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-11-26T22:13:17Z</updated>
+	<updated>2021-11-30T10:01:09Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
 		<email>maxim@villivald.com</email>
 	</author>
+	
+	<entry>
+		<title>[27] Top 10 Must-Have Web Dev Tools – November 2021</title>
+		<link href="/eleventy-stylus-blog-theme/posts/2021-11-29-top-10-web-dev-tools-11-2021/"/>
+		<updated>2021-10-30T00:00:00Z</updated>
+		<id>/eleventy-stylus-blog-theme/posts/2021-11-29-top-10-web-dev-tools-11-2021/</id>
+		<content type="html">&lt;p&gt;For me, this November was very hectic in all aspects, so I managed to write this post only on the very last day of the month. Nevertheless, let me present you a brand new November 2021 edition of my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I try to pick the most intriguing and handy instruments that, I believe, are must-haves for every web developer. This time there are:&lt;/p&gt;
+&lt;h2&gt;1). ssshape&lt;/h2&gt;
+&lt;p&gt;An SVG blob/shape generator with a great UI and intuitive user experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/ssshape.webp&quot; alt=&quot;blob/shape generator&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fffuel.co/ssshape/&quot;&gt;https://fffuel.co/ssshape/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;2). Doodle Ipsum&lt;/h2&gt;
+&lt;p&gt;The lorem ipsum of illustrations. It gives you the possibility to customize your doodles, grab the code, and use it on your web prototypes, landing pages, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/doodle.webp&quot; alt=&quot;lorem ipsum of illustrations&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://doodleipsum.com/&quot;&gt;https://doodleipsum.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;3). cht.sh&lt;/h2&gt;
+&lt;p&gt;This tool is one of my latest findings from &lt;a href=&quot;https://frontendmasters.com/courses/developer-productivity/&quot;&gt;Frontend Masters course&lt;/a&gt;. A very useful terminal cheatsheet with a CLI interface.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/cheat.webp&quot; alt=&quot;terminal cheatsheet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cht.sh/&quot;&gt;https://cht.sh/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;4). cube awesome tools&lt;/h2&gt;
+&lt;p&gt;An awesome collection of data visualization tools for different occasions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/cube.webp&quot; alt=&quot;data visualization tools&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://awesome.cube.dev/&quot;&gt;https://awesome.cube.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;5). Couleur&lt;/h2&gt;
+&lt;p&gt;A simple tool to help you create harmonizing color palettes with HSL color values. You should also check an Accessible Palette tool from my &lt;a href=&quot;https://www.create-react-app.com/posts/2021-10-19-top-10-web-dev-tools-10-2021/#:~:text=Accessible%20Palette&quot;&gt;last post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/couleur.webp&quot; alt=&quot;color palettes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://couleur.io/&quot;&gt;https://couleur.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;6). UIUI&lt;/h2&gt;
+&lt;p&gt;Collection of simple elements for UI development you can play around with.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/uiui.webp&quot; alt=&quot;ui elements&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.uiui.dev/&quot;&gt;https://www.uiui.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;7). Shadow palette&lt;/h2&gt;
+&lt;p&gt;Actually, this one should be number one on this list. An amazing shadow palette generator by &lt;a href=&quot;https://www.joshwcomeau.com/&quot;&gt;Josh Comeau&lt;/a&gt; who is also a creator of &lt;a href=&quot;https://css-for-js.dev/&quot;&gt;CSS for JavaScript Developers&lt;/a&gt; course.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/shadow.webp&quot; alt=&quot;shadow palette&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.joshwcomeau.com/shadow-palette/&quot;&gt;https://www.joshwcomeau.com/shadow-palette/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;8). Netlify Drop&lt;/h2&gt;
+&lt;p&gt;Drag and drop tool for deploying your website to Netlify. I do not really know, can it be more simple than this?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/netlify.webp&quot; alt=&quot;netlify drop&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://app.netlify.com/drop&quot;&gt;https://app.netlify.com/drop&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;9). Bundle Scanner&lt;/h2&gt;
+&lt;p&gt;An instrument to scan your bundle and identify all the NPM libraries included. Good addition to &lt;a href=&quot;https://www.create-react-app.com/posts/2021-07-12-top-10-web-dev-tools-07-2021/#:~:text=Bundlephobia,-Bundlephobia%20is%20a&quot;&gt;Bundlephobia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/bundle.webp&quot; alt=&quot;bundle scanner&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bundlescanner.com/&quot;&gt;https://bundlescanner.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;10). Remix&lt;/h2&gt;
+&lt;p&gt;A promising full-stack React-based framework focused on web fundamentals and modern UX. Now it&#39;s public and completely free.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/remix.webp&quot; alt=&quot;remix framework&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://remix.run/&quot;&gt;https://remix.run/&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;a href=&quot;https://villivald.com/&quot;&gt;My Site&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/villivald&quot;&gt;GitHub&lt;/a&gt;&lt;/h3&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>[26] Top 10 Must-Have Web Dev Tools – October 2021</title>
