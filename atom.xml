@@ -5,7 +5,7 @@
 	
 	<link href="/eleventy-stylus-blog-theme/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2021-11-30T10:06:17Z</updated>
+	<updated>2021-12-26T08:56:36Z</updated>
 	<id>https://create-react-app.com</id>
 	<author>
 		<name>MV</name>
@@ -13,9 +13,69 @@
 	</author>
 	
 	<entry>
+		<title>[28] Top 10 Web Dev Tools in 2021</title>
+		<link href="/eleventy-stylus-blog-theme/posts/2021-12-26-top-10-web-dev-tools-2021/"/>
+		<updated>2021-12-26T00:00:00Z</updated>
+		<id>/eleventy-stylus-blog-theme/posts/2021-12-26-top-10-web-dev-tools-2021/</id>
+		<content type="html">&lt;p&gt;This time I would like to present you some of the most memorable tools I&#39;ve talked about this year. Personally, for me, this year was a year of intensive learning and big changes in my professional life. Anyway, I&#39;m not going to make this blog post too personal. For this purpose, there will be a separate post in January. So, let me finish my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I tried to pick the most intriguing and handy instruments that, I believe, are must-haves for every web developer. Summarizing the results of the year, there are:&lt;/p&gt;
+&lt;h2&gt;1). Squoosh&lt;/h2&gt;
+&lt;p&gt;Squoosh is the most intuitive and good-looking image compression web app I have ever seen. It works very fast and supports many formats (AVIF, WebP, JPEG XL, etc.).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-03-08-18-top-10-web-dev-tools-03-2021/&quot;&gt;[18] March 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/18/Screenshot-2021-03-07-at-21.44.16.png&quot; alt=&quot;squoosh&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://squoosh.app/&quot;&gt;https://squoosh.app/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;2). Daily Dev&lt;/h2&gt;
+&lt;p&gt;The best coding news aggregator I have seen so far (yes, including &lt;a href=&quot;https://www.create-react-app.com/posts/2020-12-05-15-best-developer-resources-in-2020/&quot;&gt;Hacker News&lt;/a&gt;). Available both as a &lt;a href=&quot;https://app.daily.dev/&quot;&gt;web app&lt;/a&gt; and &lt;a href=&quot;https://r.daily.dev/chrome&quot;&gt;extension&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-04-06-top-10-web-dev-tools-04-2021/&quot;&gt;[19] April 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/19/Screenshot-2021-04-06-at-16.30.36.png&quot; alt=&quot;daily dev&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://daily.dev/&quot;&gt;https://daily.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;3). Vercel&lt;/h2&gt;
+&lt;p&gt;A very impressive and easy-to-use deployment and collaboration platform for front-end developers from creators of &lt;a href=&quot;https://nextjs.org/&quot;&gt;NextJS&lt;/a&gt;. Vercel enables developers to host websites and web services that deploy instantly and scale automatically – all without any configuration. So far, I have been using it for a couple of weeks, and it really feels like a &lt;a href=&quot;https://heroku.com/&quot;&gt;Heroku&lt;/a&gt; or &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; on steroids.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-05-10-top-10-web-dev-tools-05-2021/&quot;&gt;[21] May 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/21/Screenshot-2021-05-10-at-11.11.06.png&quot; alt=&quot;Top 10 Must-Have Web Dev Tools&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vercel.com/dashboard&quot;&gt;https://vercel.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;4). Eleventy&lt;/h2&gt;
+&lt;p&gt;Eleventy is a well-known and gaining momentum &lt;a href=&quot;https://jamstack.org/generators/&quot;&gt;static site generator&lt;/a&gt;. I have recently moved &lt;a href=&quot;https://www.create-react-app.com/&quot;&gt;my blog&lt;/a&gt; from WordPress to Eleventy, and it was the best decision to make in terms of performance and accessibility. Here is the &lt;a href=&quot;https://crappblog.netlify.app/blog-on-vercel/&quot;&gt;latest Lighthouse score&lt;/a&gt; as confirmation of my words.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-06-15-top-10-web-dev-tools-06-2021/&quot;&gt;[22] June 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://reverent-carson-67c52e.netlify.app/static/img/images/22/11ty.webp&quot; alt=&quot;eleventy&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.11ty.dev/&quot;&gt;https://www.11ty.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;5). Haikei&lt;/h2&gt;
+&lt;p&gt;Haikei is a very inspiring web tool for generating unique SVG shapes, backgrounds, and patterns.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-07-12-top-10-web-dev-tools-07-2021/&quot;&gt;[23] July 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/haikei.webp&quot; alt=&quot;haikei&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://app.haikei.app/&quot;&gt;https://app.haikei.app/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;6). Vite&lt;/h2&gt;
+&lt;p&gt;Vite is a blazing fast and easy to configure build tool. It uses &lt;a href=&quot;https://esbuild.github.io/&quot;&gt;esbuild&lt;/a&gt; for bundling, which is written in Go and pre-bundles dependencies 10-100x faster than JavaScript-based bundlers. I recently used Vite in one of my latest &lt;a href=&quot;https://vaccine2021.vercel.app/&quot;&gt;projects&lt;/a&gt;, and I&#39;m currently planning to move my &lt;a href=&quot;https://villivald.com&quot;&gt;site&lt;/a&gt; to it (from create-react-app incl. webpack).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-07-12-top-10-web-dev-tools-07-2021/&quot;&gt;[23] July 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/23/vite.webp&quot; alt=&quot;vite&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vitejs.dev/&quot;&gt;https://vitejs.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;7). GitHub Copilot&lt;/h2&gt;
+&lt;p&gt;Copilot is an AI tool developed by GitHub to assist users of VS Code. It is still in a Technical Preview state and requires joining the waitlist, but from my experience, I would say that Copilot has all prerequisites to become the Next Big Thing.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-08-17-top-10-web-dev-tools-08-2021/&quot;&gt;[24] August 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/24/copilot.webp&quot; alt=&quot;copilot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://copilot.github.com/&quot;&gt;https://copilot.github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;8). Hackr.io&lt;/h2&gt;
+&lt;p&gt;Hackr.io is a platform providing access to a curated collection of different programming courses. It is a great tool to learn overall, as well as get started with web development. Feel free to submit a course or tutorial you like the most (I also plan on doing it sometime soon).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-09-16-top-10-web-dev-tools-09-2021/&quot;&gt;[25] September 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/25/hackr.webp&quot; alt=&quot;hackr io&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hackr.io/&quot;&gt;https://hackr.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;9). OpenMoji&lt;/h2&gt;
+&lt;p&gt;An open-source emoji library made by 60+ students and 3 professors of the &lt;a href=&quot;https://www.hfg-gmuend.de/&quot;&gt;HfG Schwäbisch Gmünd&lt;/a&gt; and 20+ external contributors. I already use some of their brilliant emojis in my &lt;a href=&quot;https://koripallopaikat.com/&quot;&gt;basketball-related project&lt;/a&gt;. They seem like a great alternative to the standard ones.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-10-19-top-10-web-dev-tools-10-2021/&quot;&gt;[26] October 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/26/openmoji.webp&quot; alt=&quot;Open source emojis library&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openmoji.org/&quot;&gt;https://openmoji.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;10). cht.sh&lt;/h2&gt;
+&lt;p&gt;This tool is one of my latest findings from &lt;a href=&quot;https://frontendmasters.com/courses/developer-productivity/&quot;&gt;Frontend Masters course&lt;/a&gt;. A very useful terminal cheatsheet with a CLI interface.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.create-react-app.com/posts/2021-11-29-top-10-web-dev-tools-11-2021/&quot;&gt;[27] November 2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.create-react-app.com/static/img/images/27/cheat.webp&quot; alt=&quot;terminal cheatsheet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cht.sh/&quot;&gt;https://cht.sh/&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>[27] Top 10 Must-Have Web Dev Tools – November 2021</title>
 		<link href="/eleventy-stylus-blog-theme/posts/2021-11-29-top-10-web-dev-tools-11-2021/"/>
-		<updated>2021-10-30T00:00:00Z</updated>
+		<updated>2021-11-29T00:00:00Z</updated>
 		<id>/eleventy-stylus-blog-theme/posts/2021-11-29-top-10-web-dev-tools-11-2021/</id>
 		<content type="html">&lt;p&gt;For me, this November was very hectic in all aspects, so I managed to write this post only on the very last day of the month. Nevertheless, let me present you a brand new November 2021 edition of my &lt;a href=&quot;https://www.create-react-app.com/tags/top&quot;&gt;blog post series&lt;/a&gt; - Top 10 Best Web Dev Tools. Every month I try to pick the most intriguing and handy instruments that, I believe, are must-haves for every web developer. This time there are:&lt;/p&gt;
 &lt;h2&gt;1). ssshape&lt;/h2&gt;
