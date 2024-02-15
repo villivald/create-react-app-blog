@@ -1,15 +1,15 @@
 {
   "name": "create-react-app.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-navigation": "^0.1.6",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "concurrently": "^6.2.1",
-    "luxon": "^1.28.0",
-    "stylus": "^0.54.8"
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "concurrently": "^8.2.2",
+    "luxon": "^3.4.4",
+    "stylus": "^0.62.0"
   },
   "scripts": {
     "build:stylus": "stylus --compress ./stylus/ --out ./static/css/",
