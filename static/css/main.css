@@ -130,7 +130,7 @@ body.dark .footer {
   background: #3d3d3d;
 }
 .gitlogo {
-  width: 16px;
+  width: 1.25rem;
 }
 .links-container {
   display: flex;
@@ -143,6 +143,7 @@ body.dark .footer {
 }
 .linkContainer {
   display: flex;
+  align-items: center;
   gap: 3px;
 }
 @media screen and (max-width: 500px) {
@@ -159,7 +160,7 @@ body.dark .footer {
 .hero .blogTitle {
   display: inline;
   text-decoration: underline wavy #7300e6;
-  text-underline-offset: 6px;
+  text-underline-offset: 10px;
 }
 .heroLogo {
   width: clamp(100px, 133px, 20%);
