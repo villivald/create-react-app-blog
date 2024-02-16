@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 15.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 16.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -30,8 +30,12 @@ In addition to this post, my progress can be followed on:
 
 #### Day 1: Variables, constants, strings, and numbers
 
-![100 Days of SwiftUI - logo](https://www.create-react-app.com/static/img/images/31/day1.webp)
+![100 Days of SwiftUI - Day 1](https://www.create-react-app.com/static/img/images/31/day1.webp)
 
 Today, I reviewed some basic concepts of Swift. I already knew about variables and constants, but I learned a couple of new things as well. For example, I learned about multi-line strings (`"""`), type safety (1 + 2.0 = error), and a couple of useful methods (`uppercased()`, `hasPrefix()`, `isMultiple(of:)`). Of course, the first day was an easy one, but nevertheless, it was a good refresher.
+
+#### Day 2: Booleans, string interpolation, and checkpoint 1
+
+This day's material covered such topics as booleans and string interpolation. I noticed that the interpolation syntax in Swift is more elegant and a bit more powerful 🤔 than in Javascript, so that's interesting. At the end of the lesson, I finished the first checkpoint assignment - converting temperature from °C to °F (classic).
 
 ---
