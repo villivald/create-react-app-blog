@@ -132,6 +132,11 @@ body.dark .footer {
 .gitlogo {
   width: 1.25rem;
 }
+.link:is(:nth-of-type(2),
+:nth-of-type(3),
+:nth-of-type(6)) .gitlogo {
+  width: 1.7rem;
+}
 .links-container {
   display: flex;
   justify-content: center;
@@ -238,6 +243,7 @@ body.dark .navbar__mobile-link:hover {
 }
 .navbar__button:hover {
   background-color: #f2f2f2;
+  cursor: pointer;
 }
 body.dark .navbar__button:hover {
   background-color: #3d3d3d;
