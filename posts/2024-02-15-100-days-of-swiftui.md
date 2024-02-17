@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 16.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 17.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -37,5 +37,11 @@ Today, I reviewed some basic concepts of Swift. I already knew about variables a
 #### Day 2: Booleans, string interpolation, and checkpoint 1
 
 This day's material covered such topics as booleans and string interpolation. I noticed that the interpolation syntax in Swift is more elegant and a bit more powerful 🤔 than in Javascript, so that's interesting. At the end of the lesson, I finished the first checkpoint assignment - converting temperature from °C to °F (classic).
+
+#### Day 3: Arrays, dictionaries, sets, and enums
+
+Day 3 had a surprisingly large amount of new information. I learned a couple of previously unknown concepts, such as dictionaries, sets, and enums. I believe that each of them might have particular use cases, but I'm not sure yet when to use them in practice. I suppose it will become clear in the nearest feature.
+
+So far, it seems that the first two weeks of the course will be directed towards learning/refreshing the basics of Swift as a language. After that, we will start using SwiftUI and building something more tangible. I hope that, at this point, the process will become more practical.
 
 ---
