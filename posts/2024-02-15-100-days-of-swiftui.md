@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 17.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 18.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -43,5 +43,15 @@ This day's material covered such topics as booleans and string interpolation. I 
 Day 3 had a surprisingly large amount of new information. I learned a couple of previously unknown concepts, such as dictionaries, sets, and enums. I believe that each of them might have particular use cases, but I'm not sure yet when to use them in practice. I suppose it will become clear in the nearest feature.
 
 So far, it seems that the first two weeks of the course will be directed towards learning/refreshing the basics of Swift as a language. After that, we will start using SwiftUI and building something more tangible. I hope that, at this point, the process will become more practical.
+
+#### Day 4: Type annotations and checkpoint 2
+
+![100 Days of SwiftUI - Day 4](https://www.create-react-app.com/static/img/images/31/day4.webp)
+
+Today's lesson was brief, yet it covered an important topic - type annotations. From my point of view, in Swift, it works exactly the same way as in Typescript. I am not 100% sure about type inference, so I will check it later.
+
+The second checkpoint assignment was about returning unique values from the array by converting it to a set. It also seems like a task that can be accomplished almost the same way in Javascript or Typescript.
+
+As you can see from today's image, I still use VSCode for Swift development. I am not sure if it's the best option, and I will probably switch to Xcode sooner or later.
 
 ---
