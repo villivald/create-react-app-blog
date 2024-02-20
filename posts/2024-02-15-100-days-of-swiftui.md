@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 18.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 20.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -53,5 +53,17 @@ Today's lesson was brief, yet it covered an important topic - type annotations. 
 The second checkpoint assignment was about returning unique values from the array by converting it to a set. It also seems like a task that can be accomplished almost the same way in Javascript or Typescript.
 
 As you can see from today's image, I still use VSCode for Swift development. I am not sure if it's the best option, and I will probably switch to Xcode sooner or later.
+
+#### Day 5: If, switch, and the ternary operator
+
+##### &&
+
+#### Day 6: Loops, summary, and checkpoint 3
+
+I accidentally skipped a day yesterday, so I am catching up today with two sections. The first (Day 5) was about conditionals - `if`, `switch` and the ternary operator (`2 > 1 ? "Yes" : "No"`). Once again, it feels pretty much the same as in Javascript, except for some minor differences - `Int` and `Double` can not be compared directly in Swift, and `switch` statements must be exhaustive, i.e., go through all the cases or have a `default` case.
+
+Day 6 was dedicated to loops - `for` and `while`. I learned about ignoring the value (`_`), excluding the last entry (`..<`), generating a random number (`Int.random(in: 1...10)`), and using `break` and `continue` statements to control the flow of the loop.
+
+The third checkpoint contained a FizzBuzz task, which I solved at first by using the `%` operator. Then, I realized that Swift has a `.isMultiple(of:)` method and refactored the code to use it.
 
 ---
