@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 20.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 21.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -65,5 +65,9 @@ I accidentally skipped a day yesterday, so I am catching up today with two secti
 Day 6 was dedicated to loops - `for` and `while`. I learned about ignoring the value (`_`), excluding the last entry (`..<`), generating a random number (`Int.random(in: 1...10)`), and using `break` and `continue` statements to control the flow of the loop.
 
 The third checkpoint contained a FizzBuzz task, which I solved at first by using the `%` operator. Then, I realized that Swift has a `.isMultiple(of:)` method and refactored the code to use it.
+
+#### Day 7: Functions, parameters, and return values
+
+It is a wrap for the first week of the course. Today's lesson was an introduction to functions in Swift. I learned the basic syntax, as well as some handy tricks, such as omitting the `return` keyword for single-expression functions, using external parameter names, and skipping the parameter label with `_`.
 
 ---
