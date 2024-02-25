@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 21.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 24.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -69,5 +69,13 @@ The third checkpoint contained a FizzBuzz task, which I solved at first by using
 #### Day 7: Functions, parameters, and return values
 
 It is a wrap for the first week of the course. Today's lesson was an introduction to functions in Swift. I learned the basic syntax, as well as some handy tricks, such as omitting the `return` keyword for single-expression functions, using external parameter names, and skipping the parameter label with `_`.
+
+#### Day 8: Default values, throwing functions, and checkpoint 4
+
+##### &&
+
+#### Day 9: Closures, passing functions into functions, and checkpoint 5
+
+Days 8 and 9 were all about functions and closures. These parts were packed with new information, and I learned a lot of new things, though I am unsure if I remember all of them. Especially the part about closures felt a bit tricky, and I will probably need to revisit it later. However, it feels like a powerful feature, so I also used it in the latest checkpoint assignment to chain a couple of functions together - `let formattedNumbers = luckyNumbers.filter {$0 % 2 != 0}.sorted {$0 < $1}.map {"\($0) is a lucky number"}`.
 
 ---
