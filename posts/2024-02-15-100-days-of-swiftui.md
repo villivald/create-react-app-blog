@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 24.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 27.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -77,5 +77,11 @@ It is a wrap for the first week of the course. Today's lesson was an introductio
 #### Day 9: Closures, passing functions into functions, and checkpoint 5
 
 Days 8 and 9 were all about functions and closures. These parts were packed with new information, and I learned a lot of new things, though I am unsure if I remember all of them. Especially the part about closures felt a bit tricky, and I will probably need to revisit it later. However, it feels like a powerful feature, so I also used it in the latest checkpoint assignment to chain a couple of functions together - `let formattedNumbers = luckyNumbers.filter {$0 % 2 != 0}.sorted {$0 < $1}.map {"\($0) is a lucky number"}`.
+
+#### Day 10: Structs, computed properties, and property observers
+
+![100 Days of SwiftUI - Day 10](https://www.create-react-app.com/static/img/images/31/day10.webp)
+
+Day 10 was an introduction to structs. It was a pretty new concept for me, but it seems clear so far. I learned about structs' methods (and `mutating` keyword), computed properties (getters and setters), and property observers (`willSet` and `didSet`). The last part about custom initializers was somewhat confusing, but I think I got the main idea.
 
 ---
