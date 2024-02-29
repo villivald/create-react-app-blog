@@ -1,5 +1,5 @@
 ---
-title: "[31] 100 Days of Swift UI (upd. 27.02.24)"
+title: "[31] 100 Days of Swift UI (upd. 29.02.24)"
 date: "2024-02-15"
 categories:
   - "swift"
@@ -83,5 +83,9 @@ Days 8 and 9 were all about functions and closures. These parts were packed with
 ![100 Days of SwiftUI - Day 10](https://www.create-react-app.com/static/img/images/31/day10.webp)
 
 Day 10 was an introduction to structs. It was a pretty new concept for me, but it seems clear so far. I learned about structs' methods (and `mutating` keyword), computed properties (getters and setters), and property observers (`willSet` and `didSet`). The last part about custom initializers was somewhat confusing, but I think I got the main idea.
+
+#### Day 11: Access control, static properties and methods, and checkpoint 6
+
+This part was a more advanced intro to the struct concept in Swift. I learned about access control (`private`, `fileprivate`, `private(set)`), `static` properties and methods, and the difference between `self` and `Self`. At the end of the lesson, I finished the sixth checkpoint assignment, which was about creating a proper struct with a couple of properties and the `mutating` method.
 
 ---
